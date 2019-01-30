@@ -1,4 +1,4 @@
-# Project Title
+# Leafly Multi-threading Review Scraper
 
 A python web scraper using the ```requests``` library to scrape reviews from the popular cannabis rating website, Leafly.com. Also takes advantage of multi-threading through the ```multiprocessing``` library to speed up scraping, utilizing more CPU to scrape up to 70 sites at once.
 
