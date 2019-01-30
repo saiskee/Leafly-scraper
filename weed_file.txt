@@ -1,0 +1,2692 @@
+/hybrid/100-og: $100 OG
+/hybrid/98-white-widow: '98 Aloha White
+/sativa/1024: 1024
+/hybrid/13-dawgs: 13 Dawgs
+/hybrid/22: 22
+/hybrid/24k-gold: 24k Gold
+/indica/3-bears-og: 3 Bears OG
+/hybrid/3-kings: 3 Kings
+/indica/303-og: 303 OG
+/sativa/3d-cbd: 3D CBD
+/indica/3x-crazy: 3X Crazy
+/hybrid/3rd-coast-panama-chunk: 3rd Coast Panama
+/hybrid/501st-og: 501st OG
+/hybrid/541-kush: 541 Kush
+/indica/5th-element: 5th Element
+/hybrid/707-headband: 707 Headband
+/indica/8-ball-kush: 8 Ball Kush
+/indica/818-og: 818 OG
+/indica/831-og: 831 OG
+/hybrid/840: 840
+/indica/9-pound-hammer: 9 Pound Hammer
+/indica/91-krypt: 91 Krypt
+/indica/999: 999
+/indica/a-10: A-10
+/hybrid/a-dub: A-Dub
+/hybrid/a-train: A-Train
+/hybrid/acdc: ACDC
+/hybrid/ak-47: AK-47
+/hybrid/ak-48: AK-48
+/sativa/ak-49: AK-49
+/hybrid/aberdeen: Aberdeen
+/indica/abusive-og: Abusive OG
+/sativa/acapulco-gold: Acapulco Gold
+/indica/ace-killer-og: Ace Killer OG
+/indica/ace-of-spades: Ace of Spades
+/sativa/aceh: Aceh
+/hybrid/acid: Acid
+/sativa/acid-dough: Acid Dough
+/hybrid/afcrack: Afcrack
+/indica/afghan-big-bud: Afghan Big Bud
+/sativa/afghan-cow: Afghan Cow
+/hybrid/afghan-diesel: Afghan Diesel
+/indica/afghan-hawaiian: Afghan Hawaiian
+/hybrid/afghan-haze: Afghan Haze
+/indica/afghan-kush: Afghan Kush
+/indica/afghan-skunk: Afghan Skunk
+/indica/afghan-sour-kush: Afghan Sour Kush
+/hybrid/afghan-widow: Afghan Widow
+/indica/afghani: Afghani
+/indica/afgahni-bullrider: Afghani
+/indica/afghani-cbd: Afghani CBD
+/hybrid/afghanica: Afghanica
+/indica/afghanimal: Afghanimal
+/indica/afghooey: Afghooey
+/indica/afgoo: Afgoo
+/indica/afgooey: Afgooey
+/indica/afkansastan: Afkansastan
+/hybrid/afpak: Afpak
+/sativa/african: African
+/sativa/afrikaner: Afrikaner
+/hybrid/afrodite: Afrodite
+/hybrid/afternoon-delight: Afternoon
+/hybrid/afwreck: Afwreck
+/sativa/agape: Agape
+/hybrid/agent-orange: Agent Orange
+/hybrid/agent-tangie: Agent Tangie
+/hybrid/agharta: Agharta
+/indica/air-jordan-og: Air Jordan OG
+/hybrid/als-dream: Al's Dream
+/sativa/alaska: Alaska
+/hybrid/alaska-thunder-grape: Alaska Thunder
+/sativa/alaskan-ice: Alaskan Ice
+/sativa/alaskan-thunder-fuck: Alaskan Thunder
+/hybrid/albert-walker: Albert Walker
+/hybrid/alchemy: Alchemy
+/hybrid/alf: Alf
+/sativa/alice-in-wonderland: Alice in
+/hybrid/alien-abduction: Alien Abduction
+/hybrid/alien-apparition: Alien Apparition
+/hybrid/alien-asshat: Alien Asshat
+/hybrid/alien-breath: Alien Breath
+/indica/alien-bubba: Alien Bubba
+/indica/alien-dawg: Alien Dawg
+/sativa/alien-dutchess: Alien Dutchess
+/hybrid/alien-hallucination: Alien
+/hybrid/alien-inferno: Alien Inferno
+/indica/alien-kush: Alien Kush
+/hybrid/alien-og: Alien OG
+/hybrid/alien-reunion: Alien Reunion
+/indica/alien-rift: Alien Rift
+/hybrid/alien-rock-candy: Alien Rock Candy
+/hybrid/alien-sour-apple: Alien Sour Apple
+/sativa/alien-stardawg: Alien Stardawg
+/indica/alien-technology: Alien Technology
+/hybrid/alien-walker: Alien Walker
+/indica/aliens-on-moonshine: Aliens On
+/indica/allen-iverson-og: Allen Iverson OG
+/sativa/allen-wrench: Allen Wrench
+/indica/allkush: Allkush
+/sativa/aloha: Aloha
+/hybrid/aloha-grape-stomper: Aloha Grape
+/hybrid/aloha-limone: Aloha Limone
+/hybrid/alohaberry: Alohaberry
+/sativa/alpha-blue: Alpha Blue
+/sativa/alpha-cow: Alpha Cow
+/sativa/alpha-express: Alpha Express
+/hybrid/alpha-og: Alpha OG
+/hybrid/alpine-blue: Alpine Blue
+/indica/alpine-star: Alpine Star
+/hybrid/ambrosia: Ambrosia
+/hybrid/ambrosia-8a5e98966f6047318a0ff1c3c3ad5075: Ambrosia
+/indica/american-beauty: American Beauty
+/hybrid/american-dream: American Dream
+/indica/american-kush: American Kush
+/hybrid/american-pie: American Pie
+/indica/americano: Americano
+/hybrid/amethyst: Amethyst
+/hybrid/amethyst-bud: Amethyst Bud
+/sativa/amnesi-k-lemon: Amnesi-K Lemon
+/sativa/amnesia: Amnesia
+/sativa/amnesia-ganja-haze: Amnesia Ganja
+/sativa/amnesia-haze: Amnesia Haze
+/sativa/amnesia-og: Amnesia OG
+/indica/ancient-kush: Ancient Kush
+/indica/ancient-og: Ancient OG
+/indica/anesthesia: Anesthesia
+/indica/angel-og: Angel OG
+/hybrid/animal-blues: Animal Blues
+/hybrid/animal-cookies: Animal Cookies
+/indica/anonymous-og: Anonymous OG
+/indica/anubis: Anubis
+/hybrid/ape-shit: Ape Shit
+/hybrid/apollo-11: Apollo 11
+/hybrid/apollo-13: Apollo 13
+/hybrid/apollo-13-haze: Apollo 13 Haze
+/hybrid/apollo-haze: Apollo Haze
+/hybrid/appalachia: Appalachia
+/sativa/appalachian-power: Appalachian
+/hybrid/apple-jack: Apple Jack
+/hybrid/apple-kush: Apple Kush
+/indica/appleberry: Appleberry
+/sativa/arabian-gold: Arabian Gold
+/hybrid/arctic-sun: Arctic Sun
+/hybrid/arcticblue: ArcticBlue
+/hybrid/area-51: Area 51
+/hybrid/argvana-heat: Argvana Heat
+/indica/argyle: Argyle
+/sativa/arjans-strawberry-haze: Arjan's
+/sativa/arjans-ultra-haze-1: Arjan's Ultra
+/hybrid/armageddon: Armageddon
+/hybrid/armagnac: Armagnac
+/hybrid/ash: Ash
+/sativa/asian-fantasy: Asian Fantasy
+/hybrid/aspen-og: Aspen OG
+/hybrid/astral-works: Astral Works
+/sativa/astroboy: Astroboy
+/indica/athabasca: Athabasca
+/hybrid/atmosphere: Atmosphere
+/hybrid/atomic: Atomic
+/hybrid/atomic-goat: Atomic Goat
+/hybrid/atomic-northern-lights: Atomic Northern
+/sativa/atomical-haze: Atomical Haze
+/indica/aurora-borealis: Aurora Borealis
+/indica/aurora-indica: Aurora Indica
+/hybrid/avalon: Avalon
+/hybrid/avi: Avi
+/hybrid/avi-dekel: Avi-Dekel
+/indica/ayahuasca-purple: Ayahuasca Purple
+/hybrid/aymi: Aymi
+/hybrid/azure-haze: Azure Haze
+/indica/b-52: B-52
+/hybrid/b-witched: B-Witched
+/indica/bb-king: B.B. King
+/hybrid/b4: B4
+/hybrid/bc-big-bud: BC Big Bud
+/hybrid/bc-roadkill: BC Roadkill
+/indica/bc-sweet-tooth: BC Sweet Tooth
+/hybrid/bh: BH
+/hybrid/bog-bubble: BOG Bubble
+/hybrid/bsc: BSC
+/hybrid/bad-azz-kush: Bad Azz Kush
+/indica/bakerstreet: Bakerstreet
+/hybrid/balmoral: Balmoral
+/hybrid/banana-bread: Banana Bread
+/indica/banana-candy: Banana Candy
+/hybrid/banana-cream-og: Banana Cream OG
+/hybrid/banana-diesel: Banana Diesel
+/indica/banana-hammock-r1: Banana Hammock
+/hybrid/banana-kush: Banana Kush
+/hybrid/banana-og: Banana OG
+/hybrid/banana-peel: Banana Peel
+/hybrid/banana-split: Banana Split
+/hybrid/bananas: Bananas
+/hybrid/bandana: Bandana
+/sativa/bangi-haze: Bangi Haze
+/hybrid/bango: Bango
+/hybrid/banjo: Banjo
+/indica/barbara-bud: Barbara Bud
+/hybrid/batgirl: Batgirl
+/indica/batman-og: Batman OG
+/sativa/bay-11: Bay 11
+/sativa/bay-dream: Bay Dream
+/hybrid/bazooka-joe-g: Bazooka Joe G
+/hybrid/bear-dance: Bear Dance
+/indica/beast-mode-20: Beastmode 2.0
+/hybrid/beast-mode-og: Beastmode OG
+/hybrid/bedford-glue: Bedford Glue
+/indica/bedica: Bedica
+/sativa/bediol: Bediol
+/indica/bell-ringer: Bell Ringer
+/hybrid/belladonna: Belladonna
+/sativa/berkeley: Berkeley
+/hybrid/bermuda-sour: Bermuda Sour
+/indica/berries--crme: Berries & Crme
+/hybrid/berry-bomb: Berry Bomb
+/hybrid/berry-larry: Berry Larry
+/indica/berry-noir: Berry Noir
+/hybrid/berry-og: Berry OG
+/indica/berry-white: Berry White
+/hybrid/berts-cookie-dough: Bert's Cookie
+/sativa/bertberry-cheesecake: Bertberry
+/hybrid/bettie-page: Bettie Page
+/hybrid/bianca: Bianca
+/hybrid/biddy-early: Biddy Early
+/hybrid/big-band: Big Band
+/indica/big-bang: Big Bang
+/indica/big-bud: Big Bud
+/hybrid/big-budda-cheese: Big Buddha
+/indica/big-bull: Big Bull
+/hybrid/big-holy-nina: Big Holy Nina
+/hybrid/big-kush: Big Kush
+/indica/big-mac: Big Mac
+/hybrid/big-skunk-korean: Big Skunk Korean
+/hybrid/big-sky-og: Big Sky OG
+/hybrid/big-smooth: Big Smooth
+/sativa/big-sur-holy-bud: Big Sur Holy Bud
+/indica/big-white: Big White
+/indica/big-wreck: Big Wreck
+/indica/biker-kush: Biker Kush
+/hybrid/biker-leblanc: Biker LeBlanc
+/hybrid/bio-diesel: Bio-Diesel
+/hybrid/bio-jesus: Bio-Jesus
+/indica/biochem: Biochem
+/hybrid/biohazard: Biohazard
+/sativa/birds-eye: Birds Eye
+/hybrid/birds-of-paradise: Birds of
+/hybrid/birthday-cake-kush: Birthday Cake
+/indica/black-84: Black '84
+/indica/black-afghan: Black Afghan
+/hybrid/black-betty: Black Betty
+/indica/black-bubba: Black Bubba
+/indica/black-cheese: Black Cheese
+/hybrid/black-cherry-cheesecake: Black Cherry
+/indica/black-cherry-og: Black Cherry OG
+/hybrid/black-cherry-pie: Black Cherry Pie
+/hybrid/black-cherry-soda: Black Cherry
+/indica/black-dog: Black D.O.G.
+/hybrid/black-dhalia: Black Dahlia
+/indica/black-diamond: Black Diamond
+/sativa/black-diesel: Black Diesel
+/indica/black-domina: Black Domina
+/hybrid/black-haze: Black Haze
+/indica/black-ice: Black Ice
+/hybrid/black-jack: Black Jack
+/hybrid/black-label: Black Label
+/indica/black-label-kush: Black Label Kush
+/indica/black-lime-special-reserve: Black Lime
+/hybrid/black-lotus: Black Lotus
+/hybrid/black-magic: Black Magic
+/indica/black-magic-kush: Black Magic Kush
+/indica/black-mamba: Black Mamba
+/hybrid/black-out: Black Out
+/indica/black-roses: Black Roses
+/indica/black-russian: Black Russian
+/hybrid/black-tuna: Black Tuna
+/hybrid/black-velvet: Black Velvet
+/hybrid/black-widow: Black Widow
+/hybrid/blackberry: Blackberry
+/indica/blackberry-bubble: Blackberry
+/hybrid/blackberry-chem-og: Blackberry Chem
+/hybrid/blackberry-cobbler: Blackberry
+/indica/blackberry-cream: Blackberry Cream
+/sativa/blackberry-diesel: Blackberry
+/hybrid/blackberry-dream: Blackberry Dream
+/hybrid/blackberry-fire: Blackberry Fire
+/indica/blackberry-hashplant: Blackberry
+/sativa/blackberry-haze: Blackberry Haze
+/indica/blackberry-kush: Blackberry Kush
+/sativa/blackberry-lime-haze: Blackberry Lime
+/hybrid/blackberry-pie: Blackberry Pie
+/indica/blackberry-rhino: Blackberry Rhino
+/indica/blackberry-snow-cone: Blackberry Snow
+/hybrid/blackberry-trainwreck: Blackberry
+/indica/blackberry-x-blueberry: Blackberry x
+/indica/blackwater: Blackwater
+/sativa/blaze: Blaze
+/hybrid/blessings-og: Blessings OG
+/hybrid/bleugenius: Bleugenius
+/hybrid/blissful-wizard: Blissful Wizard
+/hybrid/blizzard-bush: Blizzard Bush
+/hybrid/blob-og: Blob OG
+/hybrid/blockhead: Blockhead
+/indica/bloos-kloos: Bloo's Kloos
+/indica/blood-orange-kush: Blood Orange
+/hybrid/bloodhound: Bloodhound
+/hybrid/bloodwalker: Bloodwalker
+/hybrid/blowfish: Blowfish
+/sativa/blucifer: Blucifer
+/indica/blue-afghani: Blue Afghani
+/indica/blue-alien: Blue Alien
+/indica/blue-bastard: Blue Bastard
+/sativa/blue-bayou: Blue Bayou
+/indica/blue-blood: Blue Blood
+/hybrid/blue-boy: Blue Boy
+/indica/blue-buddha: Blue Buddha
+/hybrid/blue-champange: Blue Champagne
+/indica/blue-cheese: Blue Cheese
+/hybrid/blue-cinex: Blue Cinex
+/hybrid/blue-cookies: Blue Cookies
+/hybrid/blue-crack: Blue Crack
+/indica/blue-diamond: Blue Diamond
+/hybrid/blue-diesel: Blue Diesel
+/sativa/blue-dot: Blue Dot
+/hybrid/blue-dragon: Blue Dragon
+/hybrid/blue-dream: Blue Dream
+/indica/blue-dynamite: Blue Dynamite
+/hybrid/blue-frost: Blue Frost
+/hybrid/blue-galaxy: Blue Galaxy
+/indica/blue-god: Blue God
+/hybrid/blue-goo: Blue Goo
+/hybrid/blue-hash: Blue Hash
+/hybrid/blue-hawaiian: Blue Hawaiian
+/hybrid/blue-haze: Blue Haze
+/hybrid/blue-heron: Blue Heron
+/hybrid/blue-iguana: Blue Iguana
+/hybrid/blue-ivy: Blue Ivy
+/sativa/blue-j: Blue J
+/hybrid/blue-jay-way: Blue Jay Way
+/hybrid/blue-kiss: Blue Kiss
+/indica/blue-knight: Blue Knight
+/indica/blue-kripple: Blue Kripple
+/hybrid/blue-kush: Blue Kush
+/indica/blue-lights: Blue Lights
+/sativa/blue-magic: Blue Magic
+/hybrid/blue-magoo: Blue Magoo
+/indica/blue-monster: Blue Monster
+/hybrid/blue-moon-rocks: Blue Moon Rocks
+/indica/blue-moonshine: Blue Moonshine
+/sativa/blue-mountain-fire: Blue Mountain
+/indica/blue-mystic: Blue Mystic
+/hybrid/blue-nightmare: Blue Nightmare
+/hybrid/blue-nina: Blue Nina
+/hybrid/blue-og: Blue OG
+/indica/blue-ox: Blue Ox
+/hybrid/blue-persuasion: Blue Persuasion
+/indica/blue-power: Blue Power
+/hybrid/blue-raspberry-snow-cone: Blue Raspberry
+/hybrid/blue-rhino: Blue Rhino
+/sativa/blue-satellite: Blue Satellite
+/hybrid/blue-sky: Blue Sky
+/indica/blue-steel: Blue Steel
+/hybrid/blue-thai: Blue Thai
+/hybrid/blue-train: Blue Trainwreck
+/hybrid/blue-trane: Blue Trane
+/hybrid/blue-treat: Blue Treat
+/hybrid/blue-velvet: Blue Velvet
+/hybrid/blue-venom: Blue Venom
+/hybrid/blue-widow: Blue Widow
+/sativa/blue-wolf: Blue Wolf
+/hybrid/blue-wonder: Blue Wonder
+/hybrid/blue-wreck: Blue Wreck
+/indica/blue-zkittlez: Blue Zkittlez
+/indica/blue-zombie: Blue Zombie
+/indica/blueberry: Blueberry
+/hybrid/blueberry-ak: Blueberry AK
+/sativa/blueberry-blast: Blueberry Blast
+/hybrid/blueberry-bomb: Blueberry Bomb
+/hybrid/blueberry-cheesecake: Blueberry
+/hybrid/blueberry-cookies: Blueberry
+/hybrid/blueberry-diesel: Blueberry Diesel
+/sativa/blueberry-dream: Blueberry Dream
+/hybrid/blueberry-essence: Blueberry
+/hybrid/blueberry-haze: Blueberry Haze
+/hybrid/blueberry-headband: Blueberry
+/hybrid/blueberry-jack: Blueberry Jack
+/indica/blueberry-kush: Blueberry Kush
+/hybrid/blueberry-lambsbread: Blueberry
+/hybrid/blueberry-muffins: Blueberry Muffin
+/hybrid/blueberry-og: Blueberry OG
+/hybrid/blueberry-pancakes: Blueberry
+/hybrid/blueberry-pie: Blueberry Pie
+/hybrid/blueberry-silvertip: Blueberry
+/indica/blueberry-skunk: Blueberry Skunk
+/indica/blueberry-space-cake: Blueberry Space
+/indica/blueberry-triple-og: Blueberry Triple
+/indica/blueberry-waltz: Blueberry Waltz
+/hybrid/blueberry-yum-yum: Blueberry Yum
+/hybrid/blues: Blues
+/hybrid/blukashima: Blukashima
+/hybrid/bluniverse: Bluniverse
+/hybrid/blurple: Blurple
+/hybrid/blush: Blush
+/sativa/bob-saget: Bob Saget
+/hybrid/bodega-bubblegum: Bodega Bubblegum
+/indica/bog-blue-kush: Bog Blue Kush
+/indica/bog-sour-grape: Bog Sour Grape
+/hybrid/bogart: Bogart
+/hybrid/boggle-gum: Boggle Gum
+/hybrid/bogglegum: Bogglegum
+/indica/bona-dea: Bona Dea
+/hybrid/booger: Booger
+/hybrid/boombaye: Boombaye
+/hybrid/bootlegger: Bootlegger
+/hybrid/bootylicious: Bootylicious
+/hybrid/bordello: Bordello
+/hybrid/boss-hogg: Boss Hogg
+/hybrid/boss-og: Boss OG
+/hybrid/boysenberry: Boysenberry
+/hybrid/brain-candy: Brain Candy
+/indica/brains-damage: Brains Damage
+/sativa/brainstorm-haze: Brainstorm Haze
+/hybrid/brainwreck: Brainwreck
+/indica/brand-x: Brand X
+/indica/brandywine: Brandywine
+/sativa/brazil-amazonia: Brazil Amazonia
+/hybrid/brian-berry-black-currant: Brian Berry
+/hybrid/brian-berry-citrus-blend: Brian Berry
+/hybrid/brian-berry-cough: Brian Berry
+/hybrid/brian-berry-honey-lemon: Brian Berry
+/indica/bright-fire: Bright Fire
+/hybrid/bright-moments: Bright Moments
+/hybrid/broke-diesel: Broke Diesel
+/indica/bronze-whaler: Bronze Whaler
+/hybrid/brooklyn-mango: Brooklyn Mango
+/hybrid/bruce-banner: Bruce Banner
+/hybrid/bruce-banner-3: Bruce Banner #3
+/indica/bubba-berry: Bubba Berry
+/indica/bubba-doja: Bubba Doja
+/hybrid/bubba-fresh: Bubba Fresh
+/indica/bubba-hash: Bubba Hash
+/indica/bubba-kush: Bubba Kush
+/indica/bubba-og: Bubba OG
+/hybrid/bubba-tom-hayes: Bubba Tom Hayes
+/hybrid/bubba-x-skunk: Bubba x Skunk
+/indica/bubbas-bitch: Bubba's Bitch
+/indica/bubbas-gift: Bubba's Gift
+/indica/bubble-cheese: Bubble Cheese
+/hybrid/bubble-gum: Bubble Gum
+/hybrid/bubbleberry: Bubbleberry
+/indica/bubblegum-kush: Bubblegum Kush
+/hybrid/bubblegun: Bubblegun
+/hybrid/bubblicious: Bubblicious
+/indica/buckeye-purple: Buckeye Purple
+/sativa/buddha-haze: Buddha Haze
+/indica/buddha-tahoe: Buddha Tahoe
+/hybrid/buddhas-hand: Buddha's Hand
+/indica/buddhas-sister: Buddha's Sister
+/sativa/buddhas-tooth: Buddhas Tooth
+/sativa/buffalo-bill: Buffalo Bill
+/hybrid/bugatti-og: Bugatti OG
+/indica/burkle: Burkle
+/hybrid/burmese-kush: Burmese Kush
+/hybrid/burnt-cookies: Burnt Cookies
+/indica/butter-og: Butter OG
+/indica/butterscotch: Butterscotch
+/sativa/c13-haze: C13 Haze
+/hybrid/c3: C3
+/hybrid/c3po: C3PO
+/hybrid/c4: C4
+/hybrid/cbd-blue-shark: CBD Blue Shark
+/indica/cbd-critical-cure: CBD Critical
+/indica/cbd-critical-mass: CBD Critical
+/hybrid/cbd-kush: CBD Kush
+/sativa/cbd-lilly: CBD Lilly
+/sativa/cbd-mango-haze: CBD Mango Haze
+/hybrid/cbd-og: CBD OG
+/indica/cbd-ox: CBD OX
+/sativa/cbd-rich-blessing: CBD Rich
+/indica/cbd-shark: CBD Shark
+/indica/chr-super-og: CHR Super OG
+/hybrid/csg: CSG
+/hybrid/cabbage-patch: Cabbage Patch
+/hybrid/cackleberry: Cackleberry
+/indica/cactus: Cactus
+/hybrid/cactus-cooler: Cactus Cooler
+/indica/cadillac-cookies: Cadillac Cookies
+/indica/cadillac-purple: Cadillac Purple
+/hybrid/cali-gold: Cali Gold
+/hybrid/cali-jack: Cali Jack
+/hybrid/cali-kush: Cali Kush
+/indica/california-grapefruit: California
+/indica/california-hash-plant: California Hash
+/sativa/california-limes: California Limes
+/hybrid/california-love-og: California Love
+/hybrid/california-orange: California
+/hybrid/california-sour: California Sour
+/hybrid/california-sour-diesel: California Sour
+/hybrid/calyx-og: Calyx OG
+/sativa/cambodian: Cambodian
+/sativa/cambodian-haze: Cambodian Haze
+/indica/candy-cane: Candy Cane
+/sativa/candy-jack: Candy Jack
+/sativa/candyland: Candyland
+/hybrid/candyland-x-chernobyl: Candyland x
+/hybrid/canna-tsu: Canna-Tsu
+/sativa/canna-wreck: Canna-Wreck
+/indica/cannasutra: CannaSutra
+/hybrid/cannadential: Cannadential
+/sativa/cannalope-haze: Cannalope Haze
+/hybrid/cannalope-kush: Cannalope Kush
+/hybrid/cannatonic: Cannatonic
+/indica/capers: Capers
+/hybrid/capleton: Capleton
+/hybrid/captain-america-og: Captain America
+/hybrid/captains-cake: Captain's Cake
+/hybrid/caramel-candy-kush: Caramel Candy
+/hybrid/caramel-kona-coffee-cookies: Caramel Kona
+/indica/caramel-kona-coffee-kush: Caramel Kona
+/hybrid/caramelicious: Caramelicious
+/indica/caramella: Caramella
+/sativa/caramelo: Caramelo
+/hybrid/carl-sagan: Carl Sagan
+/hybrid/carmel-cough: Carmel Cough
+/sativa/carnival: Carnival
+/hybrid/carpet-tape: Carpet Tape
+/indica/cascadia-kush: Cascadia Kush
+/sativa/casey-jones: Casey Jones
+/hybrid/cashus-clay: Cashus Clay
+/indica/casper-og: Casper OG
+/sativa/cat-piss: Cat Piss
+/hybrid/cataract-kush: Cataract Kush
+/sativa/catfish: Catfish
+/hybrid/cello-sweet-og: Cello Sweet OG
+/sativa/central-american: Central American
+/sativa/cerebro-haze: Cerebro Haze
+/hybrid/chairman-chem-sou: Chairman Chem
+/hybrid/champagne-diesel: Champagne Diesel
+/hybrid/champagne-kush: Champagne Kush
+/hybrid/charlie-sheen: Charlie Sheen
+/sativa/charlottes-web: Charlotte's Web
+/hybrid/cheese: Cheese
+/hybrid/cheese-candy: Cheese Candy
+/hybrid/cheese-quake: Cheese Quake
+/hybrid/cheeseburger: Cheeseburger
+/hybrid/cheesewreck: Cheesewreck
+/indica/chef-kush: Chef Kush
+/hybrid/chem-beyond-diesel-cbd: Chem Beyond
+/hybrid/chem-crush: Chem Crush
+/indica/chem-dog: Chem D.O.G.
+/hybrid/chem-jack: Chem Jack
+/hybrid/chem-jong-ill: Chem Jong Ill
+/indica/chem-scout: Chem Scout
+/hybrid/chem-valley-kush: Chem Valley Kush
+/sativa/chems-sister: Chem's Sister
+/hybrid/chemwreck: ChemWreck
+/hybrid/chemdawg-sour-diesel: Chemdawg Sour
+/hybrid/chemdawg: Chemdog
+/hybrid/chemdawg-4-x-alien-og-kush: Chemdog #4 x
+/hybrid/chemdawg-4: Chemdog 4
+/hybrid/chemdawg-91: Chemdog 91
+/hybrid/chemmy-jones: Chemmy Jones
+/hybrid/chemnesia: Chemnesia
+/indica/chemo: Chemo
+/hybrid/cherwillie: CherWillie
+/hybrid/chernobyl: Chernobyl
+/indica/cherries-jubilee: Cherries Jubilee
+/hybrid/cherry-ak-47: Cherry AK-47
+/hybrid/cherry-bomb: Cherry Bomb
+/hybrid/cherry-cookies: Cherry Cookies
+/hybrid/cherry-cream-pie: Cherry Cream Pie
+/hybrid/cherry-diesel: Cherry Diesel
+/hybrid/cherry-durban-poison: Cherry Durban
+/hybrid/cherry-fire: Cherry Fire
+/hybrid/cherry-grapefruit: Cherry
+/indica/cherry-kola: Cherry Kola
+/hybrid/cherry-kush: Cherry Kush
+/hybrid/cherry-limeade: Cherry Limeade
+/indica/cherry-mender: Cherry Mender
+/hybrid/cherry-og: Cherry OG
+/hybrid/cherry-pie: Cherry Pie
+/hybrid/cherry-pie-kush: Cherry Pie Kush
+/hybrid/cherry-sauce: Cherry Sauce
+/hybrid/cherry-sherbet: Cherry Sherbet
+/hybrid/cherry-skunk: Cherry Skunk
+/hybrid/cherry-slyder: Cherry Slyder
+/hybrid/cherry-thunder-fuck: Cherry Thunder
+/hybrid/cherry-vanilla-cookies: Cherry Vanilla
+/hybrid/chicle: Chicle
+/hybrid/chiesel: Chiesel
+/indica/china-yunnan: China Yunnan
+/hybrid/chiquita-banana: Chiquita Banana
+/hybrid/chloe: Chloe
+/hybrid/chocoholic: Chocoholic
+/hybrid/chocolate-cheesecake: Chocolate
+/indica/chocolate-chunk: Chocolate Chunk
+/sativa/chocolate-diesel: Chocolate Diesel
+/hybrid/chocolate-drop: Chocolate Drop
+/sativa/chocolate-fondue: Chocolate Fondue
+/indica/chocolate-glue: Chocolate Glue
+/hybrid/chocolate-hashberry: Chocolate
+/indica/chocolate-kush: Chocolate Kush
+/hybrid/chocolate-lava: Chocolate Lava
+/indica/chocolate-meringue: Chocolate
+/indica/chocolate-og: Chocolate OG
+/hybrid/chocolate-rain: Chocolate Rain
+/hybrid/chocolate-sap: Chocolate Sap
+/sativa/chocolate-skunk: Chocolate Skunk
+/sativa/chocolate-thai: Chocolate Thai
+/sativa/chocolate-thunder: Chocolate
+/hybrid/chocolate-tonic: Chocolate Tonic
+/hybrid/chocolony: Chocolony
+/sativa/chocolope: Chocolope
+/hybrid/chocolope-kush: Chocolope Kush
+/hybrid/chong-star: Chong Star
+/hybrid/chronic: Chronic
+/indica/chronic-thunder: Chronic Thunder
+/hybrid/chuck-og: Chuck OG
+/hybrid/chuckys-bride: Chucky's Bride
+/hybrid/chunky-diesel: Chunky Diesel
+/hybrid/chupacabra: Chupacabra
+/indica/church-og: Church OG
+/hybrid/cinderella-99: Cinderella 99
+/hybrid/cinderellas-dream: Cinderella's
+/hybrid/cindy-haze: Cindy Haze
+/hybrid/cindy-white: Cindy White
+/sativa/cinex: Cinex
+/sativa/cirrus: Cirrus
+/hybrid/citradelic-sunset: Citradelic
+/hybrid/citral-glue: Citral Glue
+/hybrid/citral-skunk: Citral Skunk
+/hybrid/citrix: Citrix
+/hybrid/citrus-kush: Citrus Kush
+/sativa/citrus-punch: Citrus Punch
+/hybrid/citrus-rush: Citrus Rush
+/hybrid/citrus-sap: Citrus Sap
+/hybrid/citrus-sunshine-haze: Citrus Sunshine
+/hybrid/city-of-god: City of God
+/sativa/clementine: Clementine
+/hybrid/clementine-kush: Clementine Kush
+/hybrid/clementines-terpentine: Clementines
+/hybrid/clockwork-orange: Clockwork Orange
+/hybrid/cloud-9: Cloud 9
+/hybrid/cloudcap: CloudCap
+/indica/club-69: Club 69
+/hybrid/cluster-bomb: Cluster Bomb
+/hybrid/coconut-oil: Coconut Oil
+/hybrid/cold-creek-kush: Cold Creek Kush
+/hybrid/colin-og-s1: Colin OG S1
+/sativa/colombian-gold: Colombian Gold
+/sativa/colombian-mojito: Colombian Mojito
+/indica/colorado-bubba: Colorado Bubba
+/hybrid/colorado-chem: Colorado Chem
+/hybrid/colorado-chem-rbx3: Colorado Chem
+/indica/colorado-clementines: Colorado
+/indica/commerce-city-kush: Commerce City
+/hybrid/concord-grape-blockhead: Concord Grape
+/indica/confidential-cheese: Confidential
+/indica/confidential-cookies: Confidential
+/hybrid/confidential-wreck: Confidential
+/sativa/congo: Congo
+/hybrid/connie-chung: Connie Chung
+/indica/conspiracy-kush: Conspiracy Kush
+/hybrid/cookie-breath: Cookie Breath
+/hybrid/cookie-dough: Cookie Dough
+/hybrid/cookie-jar: Cookie Jar
+/indica/cookie-monster: Cookie Monster
+/hybrid/cookie-wreck: Cookie Wreck
+/indica/cookies-kush: Cookies Kush
+/hybrid/cookies-and-cream: Cookies and
+/hybrid/cookies-and-dream: Cookies and
+/indica/copper-kush: Copper Kush
+/indica/corleone-kush: Corleone Kush
+/indica/cornbread: Cornbread
+/sativa/cosmic-collision: Cosmic Collision
+/hybrid/cotton-candy-kush: Cotton Candy
+/hybrid/cotton-purple-chem: Cotton Purple
+/hybrid/cowboy-kush: Cowboy Kush
+/sativa/cracker-jack: Cracker Jack
+/hybrid/crater-lake: Crater Lake
+/hybrid/crazy-miss-hyde: Crazy Miss Hyde
+/indica/cream-caramel: Cream Caramel
+/hybrid/crimea-blue: Crimea Blue
+/hybrid/critical-47: Critical 47
+/hybrid/critical-bilbo: Critical Bilbo
+/hybrid/critical-cheese: Critical Cheese
+/hybrid/critical-haze: Critical Haze
+/indica/critical-hog: Critical Hog
+/hybrid/critical-jack: Critical Jack
+/sativa/critical-kali-mist: Critical Kali
+/indica/critical-kush: Critical Kush
+/indica/critical-mass: Critical Mass
+/hybrid/critical-plus: Critical Plus
+/indica/critical-plus-20: Critical Plus
+/indica/critical-sensi-star: Critical Sensi
+/hybrid/critical-skunk: Critical Skunk
+/hybrid/critical-widow: Critical Widow
+/hybrid/critters-cookies: Critters Cookies
+/hybrid/crocketts-haze: Crocketts Haze
+/hybrid/cronuts: Cronuts
+/indica/crosswalker: Crosswalker
+/indica/crouching-tiger-hidden-alien: Crouching Tiger
+/indica/crown-og: Crown OG
+/indica/crown-royale: Crown Royale
+/hybrid/crunch-berry-kush: Crunch Berry
+/hybrid/crypt: Crypt
+/sativa/crystal-coma: Crystal Coma
+/hybrid/crystal-gayle: Crystal Gayle
+/indica/crystalberry: Crystalberry
+/indica/cuvee: Cuvee
+/sativa/dj-andy-williams: DJ Andy Williams
+/indica/dj-short-blueberry: DJ Short
+/hybrid/dj-smoke: DJ Smoke
+/hybrid/dairy-queen: Dairy Queen
+/indica/dakini-kush: Dakini  Kush
+/sativa/damn-sour: Damn Sour
+/hybrid/damnesia: Damnesia
+/sativa/dance-world: Dance World
+/hybrid/dancehall: Dancehall
+/indica/dank-schrader: Dank Schrader
+/hybrid/dank-sinatra: Dank Sinatra
+/indica/double-d: Danky Doodle
+/hybrid/dark-blue-dream: Dark Blue Dream
+/hybrid/dark-shadow-haze: Dark Shadow Haze
+/indica/dark-side-of-the-moon: Dark Side of the
+/indica/dark-star: Dark Star
+/indica/darkside-og: Darkside OG
+/indica/darth-vader-og: Darth Vader OG
+/hybrid/dawgs-waltz: Dawg's Waltz
+/hybrid/dawgfather-og: Dawgfather OG
+/hybrid/day-tripper: Day Tripper
+/hybrid/dedutch: DeDutch
+/hybrid/deadhead-og: Deadhead OG
+/hybrid/deadlights: Deadlights
+/indica/deadwood: Deadwood
+/indica/death-bubba: Death Bubba
+/hybrid/death-by-cake-og: Death By Cake OG
+/indica/death-star: Death Star
+/indica/deathstar-og: Death Star OG
+/hybrid/deep-breath: Deep Breath
+/hybrid/deep-cheese: Deep Cheese
+/indica/deep-chunk: Deep Chunk
+/indica/deep-purple: Deep Purple
+/indica/deep-sleep: Deep Sleep
+/sativa/delahaze: DelaHaze
+/indica/denver-maple: Denver Maple
+/hybrid/destar-bx: Des*Tar Bx
+/hybrid/desert-star: Desert Star
+/hybrid/designer-og: Designer OG
+/sativa/destroyer: Destroyer
+/indica/devil-fruit: Devil Fruit
+/sativa/devils-tit: Devil's Tit
+/indica/diablo: Diablo
+/indica/diamond-og: Diamond OG
+/hybrid/diamond-socks: Diamond Socks
+/hybrid/diamond-valley-kush: Diamond Valley
+/hybrid/diesel-dough: Diesel Dough
+/hybrid/diesel-duff: Diesel Duff
+/hybrid/diesel-glue: Diesel Glue
+/hybrid/dieseltonic: Dieseltonic
+/indica/digweed: Digweed
+/hybrid/dinachem: Dinachem
+/hybrid/dirt-nap: Dirt Nap
+/sativa/dirty-girl: Dirty Girl
+/indica/dirty-old-bastard: Dirty Old
+/hybrid/dirty-widow: Dirty Widow
+/hybrid/disney-blue: Disney Blue
+/hybrid/divina-obscura: Divina Obscura
+/hybrid/dizzy-og: Dizzy OG
+/sativa/django: Django
+/hybrid/do-over-og: Do-Over OG
+/indica/do-si-dos: Do-Si-Dos
+/sativa/doctor-doctor: Doctor Doctor
+/hybrid/doctor-jamaica: Doctor Jamaica
+/hybrid/dog-face: Dog Face
+/hybrid/dog-shit: Dog Shit
+/hybrid/dogwalker-og: Dogwalker OG
+/indica/dolla-sign-og-kush: Dolla Sign OG
+/indica/domino: Domino
+/hybrid/don-carlos: Don Carlos
+/hybrid/don-shula: Don Shula
+/hybrid/donegal: Donegal
+/indica/donkey-butter: Donkey Butter
+/hybrid/donna-og: Donna OG
+/hybrid/doobiebird-daydream: Doobiebird
+/hybrid/doox-9e52aaec47524b6088792c10b9d341d0: Doox
+/sativa/doox: Doox
+/hybrid/dopium: Dopium
+/indica/dorit: Dorit
+/hybrid/double-barrel-og: Double Barrel OG
+/sativa/double-diesel: Double Diesel
+/hybrid/double-dream: Double Dream
+/hybrid/double-dutch: Double Dutch
+/indica/double-mint: Double Mint
+/indica/double-og: Double OG
+/indica/double-purple-doja: Double Purple
+/hybrid/double-tangie-banana: Double Tangie
+/indica/double-tap: Double Tap
+/sativa/dougs-varin: Doug's Varin
+/hybrid/dr-bubbles: Dr. Bubbles
+/hybrid/dr-feelgood: Dr. Feelgood
+/indica/dr-funk: Dr. Funk
+/sativa/dr-grinspoon: Dr. Grinspoon
+/hybrid/dr-quantum: Dr. Quantum
+/hybrid/dr-who: Dr. Who
+/hybrid/dragon-og: Dragon OG
+/hybrid/dragons-breath: Dragon's Breath
+/hybrid/dreadlock: Dreadlock
+/sativa/dream-beaver: Dream Beaver
+/indica/dream-berry: Dream Berry
+/hybrid/dream-girl: Dream Girl
+/hybrid/dream-lotus: Dream Lotus
+/hybrid/dream-machine: Dream Machine
+/hybrid/dream-police: Dream Police
+/hybrid/dream-queen: Dream Queen
+/hybrid/dream-star: Dream Star
+/hybrid/dreamcatcher: Dreamcatcher
+/hybrid/dreamers-glass: Dreamers Glass
+/sativa/drizella: Drizella
+/hybrid/duct-tape: Duct Tape
+/hybrid/duke-nukem: Duke Nukem
+/hybrid/durban-berry: Durban Berry
+/hybrid/durban-cheese: Durban Cheese
+/sativa/durban-cookies: Durban Cookies
+/sativa/durban-poison: Durban Poison
+/sativa/durban-princess: Durban Princess
+/indica/durga-mata: Durga Mata
+/hybrid/dutch-crunch: Dutch Crunch
+/sativa/dutch-dragon: Dutch Dragon
+/hybrid/dutch-dynasty: Dutch Dynasty
+/sativa/dutch-hawaiian: Dutch Hawaiian
+/sativa/dutch-haze: Dutch Haze
+/indica/dutch-kush: Dutch Kush
+/hybrid/dutch-queen: Dutch Queen
+/hybrid/dutch-thunder-fuck: Dutch Thunder
+/hybrid/dutch-treat: Dutch Treat
+/hybrid/dutch-treat-haze: Dutch Treat Haze
+/hybrid/dutchberry: Dutchberry
+/indica/dynamite: Dynamite
+/hybrid/eagle-bill: Eagle Bill
+/indica/early-girl: Early Girl
+/hybrid/early-miss: Early Miss
+/sativa/early-pearl: Early Pearl
+/hybrid/early-skunk: Early Skunk
+/hybrid/earth-og: Earth OG
+/hybrid/earthquake: Earthquake
+/hybrid/earthshaker-og: Earthshaker OG
+/sativa/east-coast-alien: East Coast Alien
+/sativa/east-coast-sour-diesel: East Coast Sour
+/indica/eastern-european: Eastern European
+/hybrid/easy-bud: Easy Bud
+/hybrid/easy-peezy: Easy Peezy
+/hybrid/ebola-7: Ebola #7
+/hybrid/ecto-cooler: Ecto Cooler
+/hybrid/ed-rosenthal-super-bud: Ed Rosenthal
+/indica/edelweiss: Edelweiss
+/indica/el-chapo-og: El Chapo OG
+/indica/el-jeffe: El Jefe
+/hybrid/el-nino: El Nio
+/hybrid/el-perro: El Perro
+/hybrid/el-na: El-Na
+/hybrid/elderberry-kush: Elderberry Kush
+/indica/electric-black-mamba: Electric Black
+/hybrid/electric-kool-aid: Electric Kool
+/sativa/electric-lemon-g: Electric Lemon G
+/sativa/electric-lemonade: Electric
+/sativa/elephant: Elephant
+/hybrid/elevated-og: Elevated OG
+/hybrid/elmers-glue: Elmer's Glue
+/sativa/elphinstone: Elphinstone
+/hybrid/elvis: Elvis
+/sativa/emerald-jack: Emerald Jack
+/indica/emerald-og: Emerald OG
+/hybrid/emperor-cookie-dough: Emperor Cookie
+/indica/endless-sky: Endless Sky
+/indica/enemy-of-the-state: Enemy of the
+/indica/enigma: Enigma
+/indica/eran-almog: Eran Almog
+/indica/erdpurt: ErdPurt
+/indica/erez: Erez
+/indica/ether: Ether
+/sativa/ethiopian: Ethiopian
+/sativa/euphoria: Euforia
+/hybrid/eugene-cream: Eugene Cream
+/hybrid/euphoria-cookies: Euphoria Cookies
+/indica/everlast: Everlast
+/hybrid/exodus-cheese: Exodus Cheese
+/indica/extreme-cream: Extreme Cream
+/indica/extreme-og: Extreme OG
+/indica/fn-louzer: F'n louZER
+/hybrid/f-cut-og: F-Cut OG
+/hybrid/fpog: FPOG
+/hybrid/face-off-bx2: Face Off Bx2
+/indica/face-off-og: Face Off OG
+/hybrid/face-on-fire: Face on Fire
+/sativa/faded-glory: Faded Glory
+/indica/fallen-angel: Fallen Angel
+/hybrid/false-teeth: False Teeth
+/hybrid/fast-eddy: Fast Eddy
+/hybrid/fat-axl: Fat Axl
+/hybrid/fat-nelson: Fat Nelson
+/indica/fat-purple: Fat Purple
+/hybrid/fauxsido: Fauxsido
+/indica/faygo-red-pop: Faygo Red Pop
+/sativa/fighting-buddha: Fighting Buddha
+/hybrid/fire-alien-kush: Fire Alien Kush
+/hybrid/fire-alien-strawberry: Fire Alien
+/sativa/fire-haze: Fire Haze
+/hybrid/fire-og: Fire OG
+/sativa/firewalker-og: Firewalker OG
+/hybrid/first-48: First 48
+/indica/flaming-cookies: Flaming Cookies
+/hybrid/flo: Flo
+/sativa/flo-limone: Flo Limone
+/indica/flo-og: Flo OG
+/hybrid/flo-walker: Flo Walker
+/indica/flowerbomb-kush: Flowerbomb Kush
+/hybrid/flowers-for-algernon: Flowers For
+/indica/focaccia: Focaccia
+/indica/forbidden-fruit: Forbidden Fruit
+/hybrid/fortune-cookies: Fortune Cookies
+/hybrid/forum-cut-cookies-s1: Forum Cut
+/indica/foul-mouth: Foul Mouth
+/hybrid/four-cups: Four Cups
+/hybrid/four-star-general: Four Star
+/indica/four-way: Four Way
+/hybrid/franks-gift: Frank's Gift
+/indica/frankenstein: Frankenstein
+/indica/fred-flipn-stoned: Fred Flipn
+/indica/freezeland: Freezeland
+/indica/french-bread: French Bread
+/indica/frida: Frida
+/hybrid/frisian-dew: Frisian Dew
+/hybrid/frisian-duck: Frisian Duck
+/sativa/frostbite: Frostbite
+/hybrid/frosted-freak: Frosted Freak
+/indica/frosty: Frosty
+/hybrid/frosty-jesus: Frosty Jesus
+/hybrid/fruit-crusher: Fruit Crusher
+/hybrid/fruit-loops: Fruit Loops
+/sativa/fruit-punch: Fruit Punch
+/hybrid/fruit-spirit: Fruit Spirit
+/indica/fruity-chronic-juice: Fruity Chronic
+/hybrid/fruity-juice: Fruity Juice
+/hybrid/fruity-widow: Fruity Widow
+/indica/fruitylicious: Fruitylicious
+/indica/fucking-incredible: Fucking
+/sativa/full-moon: Full Moon
+/hybrid/funfetti: Funfetti
+/indica/funky-monkey: Funky Monkey
+/hybrid/future: Future
+/indica/g-force: G-Force
+/indica/g1000: G.1000
+/hybrid/goat: G.O.A.T.
+/indica/g-13: G13
+/hybrid/g13-diesel: G13 Diesel
+/hybrid/g13-haze: G13 Haze
+/hybrid/g13-widow: G13 Widow
+/hybrid/gdp-electric: GDP Electric
+/hybrid/gi-001: GI001
+/indica/gmo-cookies: GMO Cookies
+/hybrid/griz-kush: GRiZ Kush
+/hybrid/gsc: GSC
+/hybrid/gto: GTO
+/hybrid/gabriel-sherbet: Gabriel Sherbet
+/sativa/galactic-jack: Galactic Jack
+/indica/galactica-og: Galactica OG
+/hybrid/game-changer: Game Changer
+/indica/gandalf-og: Gandalf OG
+/hybrid/ganesh-berry: Ganesh Berry
+/indica/garlic-bud: Garlic Bud
+/indica/gas-mask: Gas Mask
+/hybrid/gatekeeper-og: Gatekeeper OG
+/hybrid/gelato: Gelato
+/hybrid/gelato-33: Gelato #33
+/hybrid/gemstone: Gemstone
+/hybrid/georgia-pine: Georgia Pine
+/hybrid/ghetto-bird: Ghetto Bird
+/hybrid/ghost-bubba: Ghost Bubba
+/hybrid/ghost-cookies: Ghost Cookies
+/hybrid/ghost-og: Ghost OG
+/indica/ghost-og-moonshine: Ghost OG
+/indica/ghost-rider-og: Ghost Rider OG
+/indica/ghost-ship: Ghost Ship
+/sativa/ghost-train-haze: Ghost Train Haze
+/hybrid/ghostbreath: Ghostbreath
+/indica/gigabud: Gigabud
+/hybrid/gilz-nilz: Gilz Nilz
+/hybrid/ginger-ale: Ginger Ale
+/hybrid/ginger-punch: Ginger Punch
+/hybrid/glad-max: Glad Max
+/hybrid/glass-apple: Glass Apple
+/hybrid/glass-slipper: Glass Slipper
+/hybrid/glue-tech: Glue Tech
+/hybrid/go-time: Go Time
+/hybrid/goat-head: Goat Head
+/indica/gobbilygoo: Gobbilygoo
+/indica/gobbstopper: Gobbstopper
+/indica/god-bud: God Bud
+/indica/gods-gift: God's Gift
+/hybrid/gods-green-crack: God's Green
+/indica/godberry: Godberry
+/indica/godfather-og: Godfather OG
+/indica/godfather-purple-kush: Godfather Purple
+/indica/godzilla: Godzilla
+/hybrid/godzilla-blood: Godzilla Blood
+/hybrid/godzilla-glue: Godzilla Glue
+/indica/gods-bubba: Gods Bubba
+/indica/gods-treat: Gods Treat
+/indica/gog-magog: Gog & Magog
+/hybrid/goji-diesel: Goji Diesel
+/hybrid/goji-og: Goji OG
+/sativa/gold-kings-thai: Gold King's Thai
+/indica/goldberry: Goldberry
+/sativa/golden-calyx: Golden Calyx
+/hybrid/golden-gage: Golden Gage
+/hybrid/golden-goat: Golden Goat
+/hybrid/golden-lemon: Golden Lemon
+/hybrid/golden-nugget: Golden Nugget
+/hybrid/golden-panda: Golden Panda
+/hybrid/golden-pineapple: Golden Pineapple
+/hybrid/golden-soda: Golden Soda
+/indica/golden-state-banana: Golden State
+/sativa/golden-tangie: Golden Tangie
+/hybrid/golden-ticket: Golden Ticket
+/sativa/golden-tiger: Golden Tiger
+/sativa/goldwing: Goldwing
+/indica/goo: Goo
+/indica/gooberry: Gooberry
+/hybrid/good-medicine: Good Medicine
+/indica/gorilla-biscuit: Gorilla Biscuit
+/hybrid/gorilla-cookies: Gorilla Cookies
+/hybrid/gorilla-girl: Gorilla Girl
+/indica/gorilla-grips: Gorilla Grips
+/hybrid/gorilla-snacks: Gorilla Snacks
+/sativa/gorkle: Gorkle
+/indica/government-mule: Government Mule
+/indica/grand-doggy-purps: Grand Doggy
+/indica/grand-hindu: Grand Hindu
+/hybrid/grand-hustle: Grand Hustle
+/indica/granddaddy-purple: Granddaddy
+/hybrid/granddaddy-wonder: Granddaddy
+/hybrid/grandma-andersons-cookies: Grandma
+/hybrid/grandmas-batch: Grandmas Batch
+/indica/grandmas-sugar-cookies: Grandmas Sugar
+/indica/grandpa-larry-og: Grandpa Larry OG
+/indica/grandpas-breath: Grandpas Breath
+/indica/grape-ape: Grape Ape
+/hybrid/grape-calyx: Grape Calyx
+/indica/grape-cookies: Grape Cookies
+/hybrid/grape-dawg: Grape Dawg
+/indica/grape-drink: Grape Drink
+/hybrid/grape-god: Grape God
+/indica/grape-inferno: Grape Inferno
+/hybrid/grape-jelly: Grape Jelly
+/indica/grape-krush: Grape Krush
+/hybrid/grape-kush: Grape Kush
+/indica/grape-ox: Grape OX
+/indica/grape-skunk: Grape Skunk
+/hybrid/grape-smuggler: Grape Smuggler
+/hybrid/grape-soda: Grape Soda
+/hybrid/sour-grapes: Grape Stomper
+/indica/grape-valley-kush: Grape Valley
+/hybrid/grape-vine: Grape Vine
+/sativa/grapefruit: Grapefruit
+/hybrid/grapefruit-diesel: Grapefruit
+/sativa/grapefruit-haze: Grapefruit Haze
+/hybrid/grapefruit-kush: Grapefruit Kush
+/indica/gravity: Gravity
+/hybrid/grease-monkey: Grease Monkey
+/sativa/white-shark: Great White
+/hybrid/green-avenger: Green Avenger
+/sativa/green-candy: Green Candy
+/hybrid/green-cheese: Green Cheese
+/sativa/green-crack: Green Crack
+/sativa/green-crack-extreme: Green Crack
+/hybrid/green-door-kush: Green Door Kush
+/indica/green-dragon: Green Dragon
+/hybrid/green-dream: Green Dream
+/sativa/green-goblin: Green Goblin
+/hybrid/green-goddess: Green Goddess
+/sativa/green-haze: Green Haze
+/hybrid/green-hornet: Green Hornet
+/indica/green-kush: Green Kush
+/sativa/green-lantern: Green Lantern
+/hybrid/green-line-og: Green Line OG
+/indica/green-love-potion: Green Love
+/hybrid/green-magic: Green Magic
+/indica/green-mango: Green Mango
+/hybrid/green-monster: Green Monster
+/indica/green-poison: Green Poison
+/indica/green-python: Green Python
+/hybrid/green-queen: Green Queen
+/hybrid/green-ribbon: Green Ribbon
+/hybrid/gremlin: Gremlin
+/hybrid/grilled-cheese: Grilled Cheese
+/indica/grimace: Grimace
+/indica/grimace-og: Grimace OG
+/indica/grimmdica: Grimmdica
+/indica/guard-dawg: Guard Dawg
+/hybrid/guava-chem: Guava Chem
+/hybrid/guava-dub-star: Guava Dub Star
+/hybrid/guava-gelato: Guava Gelato
+/hybrid/guava-kush: Guava Kush
+/hybrid/gucci-og: Gucci OG
+/indica/guido-kush: Guido Kush
+/indica/gumbo: Gumbo
+/hybrid/gummo: Gummo
+/hybrid/gummy-bears: Gummy Bears
+/hybrid/gupta-haze: Gupta Haze
+/hybrid/gupta-kush: Gupta Kush
+/hybrid/guptilla: Guptilla
+/indica/gutbuster: Gutbuster
+/hybrid/gypsy-kush: Gypsy Kush
+/indica/hades-haze: Hades Haze
+/indica/hades-og: Hades OG
+/hybrid/haleighs-hope: Haleighs Hope
+/indica/hammerhead: Hammerhead
+/hybrid/hammershark: Hammershark
+/indica/hannibal-nectar: Hannibal Nectar
+/hybrid/haole: Haole
+/indica/haoma: Haoma
+/hybrid/haoma-mist: Haoma Mist
+/hybrid/happy-rancher: Happy Rancher
+/indica/hardcore-og: Hardcore OG
+/hybrid/harle-tsu: Harle-Tsu
+/sativa/harlequin: Harlequin
+/hybrid/harlequin-gdp: Harlequin GDP
+/sativa/harley-storm: Harley Storm
+/sativa/harley-twin: Harley Twin
+/indica/harmonia: Harmonia
+/hybrid/harmony: Harmony
+/hybrid/harry-potter: Harry Potter
+/indica/hash-plant: Hash Plant
+/indica/hashbar-og: Hashbar OG
+/indica/hashberry: Hashberry
+/sativa/hashplant-haze: Hashplant Haze
+/hybrid/havarra-wedding: Havarra Wedding
+/sativa/hawaiian: Hawaiian
+/hybrid/hawaiian-cookies: Hawaiian Cookies
+/indica/hawaiian-delight: Hawaiian Delight
+/sativa/hawaiian-diesel: Hawaiian Diesel
+/sativa/hawaiian-dream: Hawaiian Dream
+/indica/hawaiian-duckfoot: Hawaiian
+/hybrid/hawaiian-fire: Hawaiian Fire
+/sativa/hawaiian-haze: Hawaiian Haze
+/sativa/hawaiian-mayan-gold: Hawaiian Mayan
+/sativa/hawaiian-punch: Hawaiian Punch
+/indica/hawaiian-purple-kush: Hawaiian Purple
+/sativa/hawaiian-sativa: Hawaiian Sativa
+/hybrid/hawaiian-skunk: Hawaiian Skunk
+/sativa/hawaiian-snow: Hawaiian Snow
+/hybrid/hawaiian-sunrise: Hawaiian Sunrise
+/hybrid/hawaiian-thunder-fuck: Hawaiian Thunder
+/hybrid/hawaiian-trinity: Hawaiian Trinity
+/sativa/hawaii-78: Hawaii 78
+/sativa/hayleys-haze: Hayley's Haze
+/sativa/haze: Haze
+/sativa/haze-berry: Haze Berry
+/hybrid/haze-heaven: Haze Heaven
+/sativa/haze-mist: Haze Mist
+/sativa/haze-wreck: Haze Wreck
+/hybrid/hazmat-og: Hazmat OG
+/hybrid/head-cheese: Head Cheese
+/hybrid/head-trip: Head Trip
+/hybrid/headband: Headband
+/hybrid/headbanger: Headbanger
+/hybrid/heatwave: Heatwave
+/hybrid/heaven-scent: Heaven Scent
+/hybrid/heavenly-og: Heavenly OG
+/hybrid/heavy-duty-fruity: Heavy Duty
+/sativa/heisenberg-kush: Heisenberg Kush
+/hybrid/hell-raiser-og: Hell Raiser OG
+/hybrid/hells-og: Hell's OG
+/hybrid/hellfire-og: Hellfire OG
+/hybrid/hemlock: Hemlock
+/sativa/hempstar: Hempstar
+/hybrid/hercules: Hercules
+/indica/herojuana: Herijuana
+/hybrid/hibiscus-sunrise: Hibiscus Sunrise
+/hybrid/high-five: High Five
+/hybrid/high-noon-irish-cream: High Noon Irish
+/hybrid/high-school-sweetheart: High School
+/sativa/higher-power: Higher Power
+/hybrid/highwayman: Highwayman
+/indica/himalayan-blackberry: Himalayan
+/hybrid/himalayan-gold: Himalayan Gold
+/indica/hindu-kush: Hindu Kush
+/indica/hindu-skunk: Hindu Skunk
+/hybrid/hindu-sour: Hindu Sour
+/sativa/hippie-chicken: Hippie Chicken
+/hybrid/hippie-crippler: Hippie Crippler
+/hybrid/hoarfrost: Hoarfrost
+/indica/hogs-breath: Hog's Breath
+/indica/hollands-hope: Holland's Hope
+/hybrid/hollywood-og: Hollywood OG
+/hybrid/holy-ghost: Holy Ghost
+/hybrid/holy-grail-kush: Holy Grail Kush
+/hybrid/holy-roller: Holy Roller
+/sativa/honduras: Honduras
+/hybrid/honey-bananas: Honey Bananas
+/indica/honey-boo-boo: Honey Boo Boo
+/hybrid/honey-lemon-cheese: Honey Lemon
+/hybrid/honey-rock: Honey Rock
+/hybrid/hong-kong: Hong Kong
+/sativa/hoodwreck: Hoodwreck
+/sativa/horace: Horace
+/hybrid/huckleberry: Huckleberry
+/hybrid/huckleberry-cough: Huckleberry
+/hybrid/huckleberry-desstar: Huckleberry
+/hybrid/huckleberry-diesel: Huckleberry
+/hybrid/huckleberry-hound: Huckleberry
+/indica/hulkamania: Hulkamania
+/hybrid/humboldt: Humboldt
+/indica/humboldt-dream: Humboldt Dream
+/hybrid/humboldt-hawaiian: Humboldt
+/indica/humboldt-headband: Humboldt
+/hybrid/humboldt-sour-diesel: Humboldt Sour
+/indica/humdinger-og: Humdinger OG
+/hybrid/hurkle: Hurkle
+/sativa/hurricane: Hurricane
+/hybrid/hustler-kush: Hustler Kush
+/hybrid/i-95: I-95
+/hybrid/iced-grapefruit: ICED Grapefruit
+/indica/ifc-og: IFC OG
+/hybrid/ig-kush: IG Kush
+/hybrid/ice: Ice
+/hybrid/ice-cream: Ice Cream
+/indica/ice-cream-cake: Ice Cream Cake
+/hybrid/ice-princess: Ice Princess
+/hybrid/ice-queen: Ice Queen
+/hybrid/ice-wreck: Ice Wreck
+/indica/iced-widow: Iced Widow
+/indica/ill-og: Ill OG
+/indica/illuminati-og: Illuminati OG
+/sativa/in-the-pines: In The Pines
+/indica/incredible-bulk: Incredible Bulk
+/sativa/incredible-hulk: Incredible Hulk
+/hybrid/industrial-plant: Industrial Plant
+/indica/ingrid: Ingrid
+/hybrid/intergalactic: Intergalactic
+/hybrid/irene-kush: Irene OG
+/indica/irish-cream: Irish Cream
+/hybrid/iron-triangle: Iron Triangle
+/sativa/island-haze: Island Haze
+/sativa/island-maui-haze: Island Maui Haze
+/sativa/island-sweet-skunk: Island Sweet
+/hybrid/js-famous-kush: J's Famous Kush
+/sativa/j-27: J-27
+/hybrid/j1: J1
+/indica/jr: JGR
+/indica/jt15: JT15
+/hybrid/jack-47: Jack 47
+/indica/jack-burton: Jack Burton
+/sativa/jack-diesel: Jack Diesel
+/hybrid/jack-flash: Jack Flash
+/hybrid/jack-frost: Jack Frost
+/hybrid/jack-haze: Jack Haze
+/sativa/jack-herer: Jack Herer
+/hybrid/jack-kush: Jack Kush
+/sativa/jack-skellington: Jack Skellington
+/sativa/jack-smack: Jack Smack
+/hybrid/jack-widow: Jack Widow
+/sativa/jack-wreck: Jack Wreck
+/hybrid/jack-of-spades: Jack of Spades
+/sativa/jack-the-ripper: Jack the Ripper
+/sativa/jacks-cleaner: Jack's Cleaner
+/hybrid/jacks-dream: Jack's Dream
+/sativa/jackalope: Jackalope
+/hybrid/jacked-up: Jacked-Up
+/hybrid/jacky-girl: Jacky Girl
+/sativa/jacky-white: Jacky White
+/hybrid/jacks-dragon-girl-7: Jacks Dragon
+/hybrid/jacks-girl: Jacks Girl
+/indica/jah-goo: Jah Goo
+/hybrid/jah-kush: Jah Kush
+/sativa/jahwaiian: Jahwaiian
+/sativa/jamaican: Jamaican
+/sativa/jamaican-dream: Jamaican Dream
+/sativa/jamaican-lion: Jamaican Lion
+/sativa/jamaican-pearl: Jamaican Pearl
+/hybrid/jamba-juice: Jamba Juice
+/hybrid/jane-doe: Jane Doe
+/hybrid/jasmin: Jasmine
+/indica/jawa-pie: Jawa Pie
+/hybrid/jazz: Jazz
+/hybrid/jean-guy: Jean Guy
+/indica/jedi-kush: Jedi Kush
+/indica/jelly-roll: Jelly Roll
+/sativa/jenni: Jenni
+/hybrid/jenny-kush: Jenny Kush
+/sativa/jericho-haze: Jericho Haze
+/hybrid/jerusalem-express: Jerusalem
+/indica/jesses-girl: Jesse's Girl
+/hybrid/jesus: Jesus
+/indica/jesus-og: Jesus OG
+/hybrid/jet-fuel: Jet Fuel
+/hybrid/jilly-dawg: Jilly Dawg
+/hybrid/jillybean: Jillybean
+/hybrid/jimi-hendrix: Jimi Hendrix
+/sativa/jock-horror: Jock Horror
+/sativa/johnnys-tonic: Johnnys Tonic
+/indica/joliet-jake: Joliet Jake
+/indica/jorges-diamond: Jorges Diamond
+/indica/josh-d-og: Josh D OG
+/hybrid/juicy-fruit: Juicy Fruit
+/hybrid/juicy-jack: Juicy Jack
+/hybrid/juliet: Juliet
+/hybrid/julius-caesar: Julius Caesar
+/hybrid/jungle-juice: Jungle Juice
+/indica/jupiter-og: Jupiter OG
+/indica/k-train: K-Train
+/hybrid/k1: K1
+/hybrid/k2: K2
+/hybrid/kc-33: KC 33
+/indica/kc-36: KC 36
+/hybrid/kt-dawg: KT Dawg
+/sativa/kaboom: Kaboom
+/hybrid/kahavvai-mode: Kahavvai Mode
+/indica/kahuna: Kahuna
+/hybrid/kaia-kush: Kaia Kush
+/hybrid/kailua-pua: Kailua Pua
+/hybrid/kalalau-kush: Kalalau Kush
+/hybrid/kalashnikova: Kalashnikova
+/hybrid/kaleidos-dope: Kaleidos Dope
+/sativa/kali-47: Kali 47
+/indica/kali-china: Kali China
+/hybrid/kali-dog: Kali Dog
+/sativa/kali-mist: Kali Mist
+/indica/kandahar: Kandahar
+/hybrid/kandy-kush: Kandy Kush
+/hybrid/kaptns-grand-dream: Kaptns Grand
+/indica/karibbean-mango: Karibbean Mango
+/hybrid/karma-bitch: Karma Bitch
+/hybrid/karma-og: Karma OG
+/indica/karmarado-og: Karmarado OG
+/indica/kashmir-kush: Kashmir Kush
+/indica/katsu-bubba-kush: Katsu Bubba Kush
+/indica/katsu-kush: Katsu Kush
+/sativa/kauai-electric: Kauai Electric
+/indica/kelly-hill-gold: Kelly Hill Gold
+/hybrid/kens-kush: Ken's Kush
+/sativa/kerala: Kerala
+/sativa/kerala-krush: Kerala Krush
+/sativa/kerosene: Kerosene
+/indica/ketama: Ketama
+/hybrid/key-lime-pie: Key Lime Pie
+/hybrid/keystone-kush: Keystone Kush
+/hybrid/khalifa-kush: Khalifa Kush
+/hybrid/khola: Khola
+/indica/khufu: Khufu
+/hybrid/kid-n-cookies: Kid N' Kookies
+/sativa/kilimanjaro: Kilimanjaro
+/hybrid/kill-bill: Kill Bill
+/hybrid/killer-grape: Killer Grape
+/hybrid/killer-queen: Killer Queen
+/sativa/killing-fields: Killing Fields
+/hybrid/kimbo-kush: Kimbo Kush
+/hybrid/king-cake: King Cake
+/hybrid/king-kong: King Kong
+/indica/king-louis: King Louis XIII
+/sativa/kings-bread: King's Bread
+/indica/king-kush: King's Kush
+/hybrid/kiss: Kiss
+/indica/kiwiskunk: Kiwiskunk
+/indica/kobain-kush: Kobain Kush
+/hybrid/koloa-sunrise: Koloa Sunrise
+/sativa/kona-gold: Kona Gold
+/hybrid/kong: Kong
+/indica/kool-aid-smile: Kool-Aid Smile
+/indica/kosher-kush: Kosher Kush
+/hybrid/kosher-tangie: Kosher Tangie
+/hybrid/krakatoa: Krakatoa
+/indica/kraken: Kraken
+/indica/kreamy-karamel: Kreamy Karamel
+/indica/krishna-kush: Krishna Kush
+/indica/kritikal-k: Kritikal-K
+/indica/kryptonite: Kryptonite
+/hybrid/kuato: Kuato
+/indica/kubbie-kush: Kubbie Kush
+/hybrid/kuchi: Kuchi
+/hybrid/kurple-fantasy: Kurple Fantasy
+/hybrid/kush-ben-yamini: Kush Ben Yamini
+/hybrid/kush-cleaner: Kush Cleaner
+/hybrid/kush-rise: Kush Rise
+/hybrid/kush-n-cheese: Kush-N-Cheese
+/indica/kushadelic: Kushadelic
+/hybrid/kushage: Kushage
+/hybrid/kushashima: Kushashima
+/indica/kushberry: Kushberry
+/hybrid/leagle-eagle: L'Eagle Eagle
+/hybrid/la-sunshine: L.A. Sunshine
+/indica/lak-federal-reserve: L.A.K. Federal
+/hybrid/la-cake: LA Cake
+/hybrid/la-chocolat: LA Chocolat
+/indica/la-confidential: LA Confidential
+/hybrid/la-jack: LA Jack
+/hybrid/la-kookies: LA Kookies
+/hybrid/la-kush: LA Kush
+/indica/la-og: LA OG
+/indica/la-ultra: LA Ultra
+/hybrid/la-woman: LA Woman
+/hybrid/lapd: LAPD
+/hybrid/lsd: LSD
+/hybrid/lvpk: LVPK
+/hybrid/la-blanca: La Blanca
+/indica/la-blanca-gold: La Blanca Gold
+/sativa/la-nina: La Nia
+/sativa/la-reina-de-africa: La Reina de
+/hybrid/lady-liberty: Lady Liberty
+/hybrid/ladyburn-1974: Ladyburn 1974
+/hybrid/lake-of-fire: Lake of Fire
+/sativa/lamb-s-bread: Lamb's Bread
+/hybrid/lambo-og: Lambo OG
+/hybrid/lamborghini: Lamborghini
+/hybrid/lambs-in-space: Lambs in Space
+/hybrid/larry-bird-kush: Larry Bird Kush
+/hybrid/larry-og: Larry OG
+/indica/las-vegas-purple-kush-bx: Las Vegas Purple
+/indica/lashkar-gah: Lashkar Gah
+/sativa/laughing-buddha: Laughing Buddha
+/hybrid/laughing-gas: Laughing Gas
+/indica/lavender: Lavender
+/sativa/lavender-haze: Lavender Haze
+/hybrid/lavender-jones: Lavender Jones
+/hybrid/lazy-train: Lazy Train
+/hybrid/le-silver-royale: Le Silver Royale
+/sativa/leda-uno: Leda Uno
+/indica/lee-roy: Lee Roy
+/hybrid/legalized-og: Legalized OG
+/indica/legend-og: Legend OG
+/sativa/legend-of-nigeria: Legend of
+/sativa/legendary-lemon: Legendary Lemon
+/hybrid/lem-chem: Lem Chem
+/hybrid/lemon-alien-dawg: Lemon Alien Dawg
+/hybrid/lemon-banana-sherbet: Lemon Banana
+/hybrid/lemon-bananas: Lemon Bananas
+/sativa/lemon-bubble: Lemon Bubble
+/sativa/lemon-cake: Lemon Cake
+/sativa/lemon-crme: Lemon Crme
+/hybrid/lemon-daddy: Lemon Daddy
+/hybrid/lemon-diesel: Lemon Diesel
+/hybrid/lemon-drop: Lemon Drop
+/hybrid/lemon-fire: Lemon Fire
+/sativa/lemon-g: Lemon G
+/sativa/lemon-haze: Lemon Haze
+/sativa/lemon-ice: Lemon Ice
+/sativa/lemon-jack: Lemon Jack
+/hybrid/lemon-jeffery: Lemon Jeffery
+/hybrid/lemon-kush: Lemon Kush
+/hybrid/lemon-larry-lavender: Lemon Larry
+/hybrid/lemon-marmalade: Lemon Marmalade
+/sativa/lemon-meringue: Lemon Meringue
+/hybrid/lemon-og-haze: Lemon OG Haze
+/hybrid/lemon-og: Lemon OG Kush
+/sativa/lemon-pie: Lemon Pie
+/hybrid/lemon-prevention: Lemon Prevention
+/sativa/lemon-sativa: Lemon Sativa
+/hybrid/lemon-skunk: Lemon Skunk
+/hybrid/lemon-sorbet-3: Lemon Sorbet #3
+/sativa/lemon-thai: Lemon Thai
+/hybrid/lemon-walker-og: Lemon Walker OG
+/hybrid/lemon-wreck: Lemon Wreck
+/sativa/lemon-zest: Lemon Zest
+/hybrid/lemonberry: Lemonberry
+/hybrid/lemonchello-28: Lemonchello 28
+/hybrid/lemonder: Lemonder
+/hybrid/lemonhead-og: Lemonhead OG
+/sativa/lennon: Lennon
+/sativa/leonidas: Leonidas
+/hybrid/lethal-purple: Lethal Purple
+/hybrid/liberty-haze: Liberty Haze
+/hybrid/lifesaver: Lifesaver
+/hybrid/lifestar: Lifestar
+/sativa/light-of-jah: Light of Jah
+/hybrid/lil-sebastian: Lil Sebastian
+/hybrid/lime-green-skunk: Lime Green Skunk
+/sativa/key-lime-haze: Lime Haze
+/indica/lime-purple-mist: Lime Purple Mist
+/sativa/lime-skunk: Lime Skunk
+/indica/lime-sorbet: Lime Sorbet
+/indica/lime-tart: Lime Tart
+/sativa/limon: Limon
+/indica/lions-gate: Lions Gate
+/indica/liquid-butter: Liquid Butter
+/hybrid/little-devil: Little Devil
+/hybrid/little-dragon: Little Dragon
+/sativa/llanera: Llanera
+/hybrid/locktite: Locktite
+/indica/locomotion: Locomotion
+/hybrid/lodi-dodi: Lodi Dodi
+/hybrid/logic-diesel: Logic Diesel
+/hybrid/longbottom-leaf: Longbottom Leaf
+/hybrid/lost-coast-ghost: Lost Coast Ghost
+/hybrid/lost-coast-og: Lost Coast OG
+/hybrid/lost-sierra-night-nurse: Lost Sierra
+/hybrid/loud-dream: Loud Dream
+/hybrid/loud-lemonade: Loud Lemonade
+/hybrid/loud-scout: Loud Scout
+/sativa/love-potion: Love Potion #1
+/indica/love-potion-9: Love Potion #9
+/hybrid/lowryder: Lowryder
+/hybrid/loyality: Loyalty
+/hybrid/luca-brasi: Luca Brasi
+/hybrid/luca-brasi-x-sour-diesel: Luca Brasi x
+/indica/lucid-bolt: Lucid Bolt
+/hybrid/lucid-dream: Lucid Dream
+/indica/lucifer-og: Lucifer OG
+/hybrid/lucky-charms: Lucky Charms
+/hybrid/lucy: Lucy
+/indica/m-39: M-39
+/hybrid/mac: MAC
+/hybrid/mc1: MC1
+/hybrid/milf: MILF
+/indica/mk-ultra: MK Ultra
+/hybrid/mad-dawg: Mad Dawg
+/indica/mad-scientist: Mad Scientist
+/indica/madagascar: Madagascar
+/sativa/madcow: Madcow
+/hybrid/madman-og: Madman OG
+/indica/madzilla: Madzilla
+/indica/mag-landrace: Mag Landrace
+/hybrid/magellan: Magellan
+/indica/magic-beans-og: Magic Beans OG
+/hybrid/magic-jordan: Magic Jordan
+/indica/magnificent-mile: Magnificent Mile
+/hybrid/magnum: Magnum
+/hybrid/magnum-opus: Magnum Opus
+/sativa/magnum-pi: Magnum PI
+/hybrid/mai-tai-cookies: Mai Tai Cookies
+/hybrid/majestic-12: Majestic 12
+/sativa/mako-haze: Mako Haze
+/sativa/malakoff: Malakoff
+/sativa/malawi: Malawi
+/sativa/malawi-gold: Malawi Gold
+/hybrid/mammoth: Mammoth
+/hybrid/mandala-1: Mandala #1
+/hybrid/mandarin-cookies: Mandarin Cookies
+/hybrid/mandarin-dreams: Mandarin Dreams
+/indica/mandarin-sunset: Mandarin Sunset
+/hybrid/mandarin-zkittlez: Mandarin
+/indica/mango: Mango
+/sativa/mango-dream: Mango Dream
+/hybrid/mango-habanero: Mango Habanero
+/sativa/mango-haze: Mango Haze
+/hybrid/mango-kush: Mango Kush
+/hybrid/mango-sherbert: Mango Sherbert
+/hybrid/mango-tango: Mango Tango
+/indica/mangolicious: Mangolicious
+/hybrid/manitoba-poison: Manitoba Poison
+/indica/maple-leaf-indica: Maple Leaf
+/hybrid/maramota-10: Maramota #10
+/hybrid/marcosus-marshmellow: Marcosus
+/hybrid/margaret-cho-g: Margaret Cho-G
+/hybrid/marionberry-kush: Marionberry Kush
+/hybrid/marionberry-pie: Marionberry Pie
+/hybrid/marleys-collie: Marley's Collie
+/hybrid/marmalade: Marmalade
+/indica/mars-og: Mars OG
+/hybrid/martian-candy: Martian Candy
+/hybrid/martian-mean-green: Martian Mean
+/indica/martian-muffins: Martian Muffins
+/indica/master-bubba: Master Bubba
+/indica/master-jedi: Master Jedi
+/indica/master-kush: Master Kush
+/indica/master-og: Master OG
+/hybrid/master-skunk: Master Skunk
+/hybrid/master-yoda: Master Yoda
+/sativa/matanuska-thunder-fuck: Matanuska
+/indica/mataro-blue: Mataro Blue
+/indica/matsu: Matsu
+/hybrid/mau-mau: Mau-Mau
+/sativa/maui: Maui
+/hybrid/maui-berry: Maui Berry
+/hybrid/maui-bubble-gift: Maui Bubble Gift
+/sativa/maui-citrus-punch: Maui Citrus
+/hybrid/maui-haole: Maui Haole
+/hybrid/maui-mango-diesel: Maui Mango
+/hybrid/maui-pineapple-chunk: Maui Pineapple
+/sativa/maui-wowie: Maui Wowie
+/hybrid/mauna-kea-white-fire-og: Mauna Kea White
+/indica/mazar-i-sharif: Mazar I Sharif
+/indica/mazar-kush: Mazar Kush
+/hybrid/mazar-x-blueberry: Mazar x
+/indica/mazari: Mazari
+/hybrid/mean-misty: Mean Misty
+/sativa/medihaze: MediHaze
+/hybrid/medibud: Medibud
+/indica/medical-49: Medical 49
+/hybrid/medicine-man: Medicine Man
+/hybrid/medicine-woman: Medicine Woman
+/hybrid/medusa: Medusa
+/hybrid/mega-jackpot: Mega Jackpot
+/sativa/megalodon: Megalodon
+/sativa/mekamika-haze: Mekamika Haze
+/hybrid/melon-gum: Melon Gum
+/hybrid/member-berry: Member Berry
+/sativa/memory-loss: Memory Loss
+/indica/mendo-afgoo: Mendo Afgoo
+/indica/mendo-breath: Mendo Breath
+/hybrid/mendo-montage: Mendo Montage
+/hybrid/mendo-queen: Mendo Queen
+/hybrid/mendo-supremo: Mendo Supremo
+/hybrid/mendocino-madness: Mendocino
+/hybrid/mendocino-purps: Mendocino Purps
+/indica/mercury-og: Mercury OG
+/indica/merlot-og: Merlot OG
+/sativa/mexican: Mexican
+/hybrid/mexican-kush: Mexican Kush
+/sativa/mexican-sativa: Mexican Sativa
+/hybrid/michael-phelps-og: Michael Phelps
+/sativa/michka: Michka
+/sativa/mickey-kush: Mickey Kush
+/hybrid/middlefork: Middlefork
+/sativa/middlefork-x-pineapple-express: Middlefork x
+/hybrid/midnight: Midnight
+/hybrid/mighty-glue: Mighty Glue
+/hybrid/mighty-quin: Mighty Quin
+/indica/milky-way: Milky Way
+/hybrid/millennium: Millennium
+/hybrid/mimosa: Mimosa
+/hybrid/mint-chocolate-chip: Mint Chocolate
+/hybrid/mission-kush: Mission Kush
+/indica/misty-kush: Misty Kush
+/hybrid/misty-morning: Misty Morning
+/hybrid/mob-boss: Mob Boss
+/sativa/moby-dick: Moby Dick
+/hybrid/mochi: Mochi
+/indica/molokai-frost: Molokai Frost
+/indica/molokai-purpz: Molokai Purpz
+/indica/money-maker: Money Maker
+/indica/monkey-bread-1: Monkey Bread #1
+/hybrid/monkey-paw: Monkey Paw
+/hybrid/monkey-thunder: Monkey Thunder
+/indica/monolith: Monolith
+/indica/monster-cookies: Monster Cookies
+/hybrid/monster-og: Monster OG
+/hybrid/montana-silvertip: Montana
+/hybrid/moon-cookies: Moon Cookies
+/indica/moon-walk: Moon Walk
+/indica/moonbeam: Moonbeam
+/sativa/moondance: Moondance
+/sativa/moonshine-haze: Moonshine Haze
+/hybrid/moonwalker-kush: Moonwalker Kush
+/sativa/moose-and-lobsta: Moose and Lobsta
+/hybrid/morning-glory: Morning Glory
+/hybrid/morning-star: Morning Star
+/indica/mossad: Mossad
+/indica/mossimo-og: Mossimo OG
+/indica/motavation: Motavation
+/sativa/mother-tongue: Mother Tongue
+/indica/mother-of-all-cherries: Mother of All
+/indica/mother-of-berries: Mother of
+/hybrid/mothers-milk: Mother's Milk
+/sativa/mothers-finest: Mothers Finest
+/hybrid/mothers-helper: Mothers Helper
+/hybrid/mountain-girl: Mountain Girl
+/hybrid/mountain-girl-x-grape-ape: Mountain Girl x
+/sativa/mountain-thunder: Mountain Thunder
+/hybrid/mozambique-poison: Mozambique
+/indica/mr-nice: Mr. Nice
+/hybrid/mr-tusk: Mr. Tusk
+/hybrid/ms-universe: Ms. Universe
+/indica/mt-cook: Mt. Cook
+/hybrid/mt-hood-magic: Mt. Hood Magic
+/hybrid/mt-rainier: Mt. Rainier
+/indica/mud-bite: Mud Bite
+/indica/murkle: Murkle
+/hybrid/mystery-98: Mystery 98
+/hybrid/mystery-jazz: Mystery Jazz
+/sativa/nl5-haze-mist: NL5 Haze Mist
+/hybrid/ny-cheese: NY Cheese
+/hybrid/ny-47: NY-47
+/hybrid/nyc-diesel: NYC Diesel
+/sativa/nypd: NYPD
+/hybrid/nanas-fix: Nanas Fix
+/sativa/narnia: Narnia
+/hybrid/nchoosha-y: Nchoosha Y
+/hybrid/nebula: Nebula
+/hybrid/nebula-ii-cbd: Nebula II CBD
+/sativa/nectarine-lips: Nectarine Lips
+/indica/negra-44: Negra 44
+/hybrid/neil-haze: Neil Haze
+/sativa/nepalese: Nepalese
+/hybrid/nepalese-jam: Nepalese Jam
+/indica/neptune-kush: Neptune Kush
+/indica/neptune-og: Neptune OG
+/sativa/nevils-wreck: Nevil's Wreck
+/sativa/nevilles-haze: Neville's Haze
+/hybrid/new-glue: New Glue
+/indica/nexus-og: Nexus OG
+/indica/nice-cherry: Nice Cherry
+/indica/nicole-kush: Nicole Kush
+/indica/night-nurse: Night Nurse
+/indica/night-terror-og: Night Terror OG
+/indica/night-train: Night Train
+/sativa/nightfire-og: NightFire OG
+/hybrid/nightmare-cookies: Nightmare
+/sativa/nina-limone: Nina Limone
+/hybrid/ninja-fruit: Ninja Fruit
+/hybrid/nor-cal-purps: Nor Cal Purps
+/indica/nordle: Nordle
+/indica/north-american: North American
+/sativa/north-american-sativa: North American
+/indica/north-indian: North Indian
+/indica/northernberry: Northern Berry
+/hybrid/northern-cross: Northern Cross
+/indica/northern-lights: Northern Lights
+/indica/northern-lights--5: Northern Lights
+/sativa/northern-lights-5-x-haze: Northern Lights
+/hybrid/northern-skunk: Northern Skunk
+/indica/northern-wreck: Northern Wreck
+/hybrid/northwest-pineapple: Northwest
+/indica/nova: Nova
+/hybrid/nuclear-cookies: Nuclear Cookies
+/indica/nuggetry-og: Nuggetry OG
+/hybrid/nukeheads: NukeHeads
+/indica/nuken: Nuken
+/sativa/nurse-jackie: Nurse Jackie
+/indica/oca-gold: OCA Gold
+/hybrid/ocas-cloud-9: OCAs Cloud 9
+/sativa/ocd: OCD
+/hybrid/og-18: OG #18
+/indica/og-1-kenobi: OG 1 Kenobi
+/hybrid/og-cheese: OG Cheese
+/hybrid/og-chem: OG Chem
+/hybrid/og-diesel-kush: OG Diesel Kush
+/indica/og-eddy-lepp: OG Eddy Lepp
+/hybrid/og-glue-sniffer: OG Glue Sniffer
+/hybrid/og-kush: OG Kush
+/indica/og-la-affie: OG LA Affie
+/indica/og-los-angeles-kush: OG Los Angeles
+/hybrid/og-poison: OG Poison
+/hybrid/og-purple-fire-thai: OG Purple Fire
+/hybrid/og-ringo: OG Ringo
+/hybrid/og-shark: OG Shark
+/hybrid/og-skunk: OG Skunk
+/hybrid/og-sour-diesel: OG Sour Diesel
+/hybrid/og-strawberry: OG Strawberry
+/hybrid/og-strawberry-star-killer: OG Strawberry
+/hybrid/og-tonic: OG Tonic
+/hybrid/og-wreck: OG Wreck
+/indica/ogs-pearl: OG's Pearl
+/hybrid/ogkb: OGKB
+/hybrid/ogiesel: OGiesel
+/indica/obama-kush: Obama Kush
+/sativa/ocean-view: Ocean View
+/hybrid/odyssey: Odyssey
+/hybrid/ogre: Ogre
+/indica/ogre-berry: Ogre Berry
+/hybrid/old-lyme-connecticut-og: Old Lyme
+/sativa/old-mother-sativa: Old Mother
+/hybrid/old-school-og: Old School OG
+/hybrid/old-toby: Old Toby
+/sativa/oldtimers-haze: Oldtimers Haze
+/hybrid/omega: Omega
+/hybrid/omega-dawg: Omega Dawg
+/hybrid/one-to-one: One to One
+/indica/opal-og-kush: Opal OG Kush
+/hybrid/opium: Opium
+/hybrid/or: Or
+/indica/orange-afghani: Orange Afghani
+/hybrid/orange-blossom: Orange Blossom
+/hybrid/orange-bud: Orange Bud
+/hybrid/orange-cookies: Orange Cookies
+/hybrid/orange-creamsicle: Orange
+/hybrid/orange-crush: Orange Crush
+/hybrid/orange-diesel: Orange Diesel
+/hybrid/orange-dream: Orange Dream
+/sativa/orange-durban: Orange Durban
+/hybrid/orange-haze: Orange Haze
+/hybrid/orange-hill-special: Orange Hill
+/hybrid/orange-juice: Orange Juice
+/indica/orange-kush: Orange Kush
+/hybrid/orange-kush-breath: Orange Kush
+/indica/orange-romulan: Orange Romulan
+/hybrid/orange-skunk: Orange Skunk
+/hybrid/orange-snow-cone: Orange Snow Cone
+/hybrid/orange-turbo: Orange Turbo
+/hybrid/orange-velvet: Orange Velvet
+/sativa/orange-wreck: Orange Wreck
+/hybrid/orangutang: Orangutang
+/indica/oregon-diesel: Oregon Diesel
+/hybrid/oregon-pineapple: Oregon Pineapple
+/sativa/oregon-pinot-noir: Oregon Pinot
+/hybrid/organic-diesel: Organic Diesel
+/hybrid/orient-express: Orient Express
+/hybrid/original-glue: Original Glue
+/indica/ortega: Ortega
+/hybrid/oteils-egyptian-kush: Oteils Egyptian
+/sativa/outer-space: Outer Space
+/sativa/outlaw: Outlaw
+/indica/p-51: P-51
+/hybrid/p-91: P-91
+/hybrid/pb-souffl: PB Souffl
+/hybrid/ptsd: PTSD
+/indica/pvc-og: PVC OG
+/indica/pacific-blue: Pacific Blue
+/hybrid/pacific-frost: Pacific Frost
+/sativa/pagoda: Pagoda
+/indica/pakistan-valley-kush: Pakistan Valley
+/indica/pakistani-chitral-kush: Pakistani
+/indica/palm-tree-cbd: Palm Tree CBD
+/indica/pamelina: Pamelina
+/hybrid/pan-jam: Pan Jam
+/sativa/panama-punch: Panama Punch
+/sativa/panama-red: Panama Red
+/hybrid/panda-og: Panda OG
+/sativa/pandoras-box: Pandora's Box
+/indica/papas-og: Papa's OG
+/indica/papaya: Papaya
+/indica/paris-og: Paris OG
+/indica/paris-xxx: Paris XXX
+/hybrid/patti-cake: Patti Cake
+/hybrid/peach-crescendo-f-1: Peach Crescendo
+/hybrid/peaches-and-cream: Peaches and
+/hybrid/peachy-mack: Peachy Mack
+/hybrid/pearl-scout-cookies: Pearl Scout
+/hybrid/peles-fire-og: Pele's Fire OG
+/indica/pennywise: Pennywise
+/hybrid/peppermint-cookies: Peppermint
+/hybrid/perfect-purple: Perfect Purple
+/hybrid/permafrost: Permafrost
+/indica/pestilence: Pestilence
+/indica/petrolia-headstash: Petrolia
+/indica/peyote-cookies: Peyote Cookies
+/hybrid/peyton-manning: Peyton Manning
+/indica/pez: Pez
+/indica/phantom-arrow: Phantom Arrow
+/hybrid/phantom-cookies: Phantom Cookies
+/indica/phantom-og: Phantom OG
+/indica/phatt-frutty: Phatt Frutty
+/hybrid/pheno-51: Pheno 51
+/indica/phishhead-kush: Phishhead Kush
+/hybrid/pie-face-og: Pie Face OG
+/hybrid/pine-cone: Pine Cone
+/hybrid/pine-queen-dream: Pine Queen Dream
+/indica/pine-tar-kush: Pine Tar Kush
+/hybrid/pineapple: Pineapple
+/hybrid/pineapple-calyx: Pineapple Calyx
+/hybrid/pineapple-chunk: Pineapple Chunk
+/hybrid/pineapple-cookies: Pineapple
+/hybrid/pineapple-diesel: Pineapple Diesel
+/hybrid/pineapple-dog-shit: Pineapple Dog
+/hybrid/pineapple-express: Pineapple
+/sativa/pineapple-fields: Pineapple Fields
+/sativa/pineapple-haze: Pineapple Haze
+/sativa/pineapple-jack: Pineapple Jack
+/hybrid/pineapple-kush: Pineapple Kush
+/hybrid/pineapple-mayhem: Pineapple Mayhem
+/sativa/pineapple-og: Pineapple OG
+/sativa/pineapple-punch: Pineapple Punch
+/hybrid/pineapple-purple-skunk: Pineapple Purple
+/sativa/pineapple-purps: Pineapple Purps
+/hybrid/pineapple-sage-0c9f3c369b6a422f94ef911b8ba67373: Pineapple SAGE
+/sativa/pineapple-sage: Pineapple Sage
+/hybrid/pineapple-skunk: Pineapple Skunk
+/sativa/pineapple-super-silver-haze: Pineapple Super
+/sativa/pineapple-thai: Pineapple Thai
+/hybrid/pineapple-trainwreck: Pineapple
+/hybrid/pineapple-upside-down-cake: Pineapple Upside
+/hybrid/pineapple-zest: Pineapple Zest
+/hybrid/pinewarp: Pinewarp
+/indica/pink-berry: Pink Berry
+/indica/pink-bubba: Pink Bubba
+/indica/pink-champagne: Pink Champagne
+/hybrid/pink-cookies: Pink Cookies
+/indica/pink-death-star: Pink Death Star
+/hybrid/pink-hawaiian: Pink Hawaiian
+/hybrid/pink-kush: Pink Kush
+/hybrid/pink-lemonade: Pink Lemonade
+/hybrid/pink-mango: Pink Mango
+/hybrid/pink-panther: Pink Panther
+/indica/pink-panties: Pink Panties
+/hybrid/pink-pez: Pink Pez
+/hybrid/pink-starburst: Pink Starburst
+/indica/pink-sunset: Pink Sunset
+/indica/pinkman-goo: Pinkman Goo
+/sativa/pinot-green: Pinot Green
+/hybrid/pirate-radio: Pirate Radio
+/indica/pitbull: Pitbull
+/sativa/pia-collision: Pia Collision
+/indica/placenta: Placenta
+/indica/platinum-bubba-kush: Platinum Bubba
+/hybrid/platinum-calyx: Platinum Calyx
+/hybrid/platinum-gsc: Platinum GSC
+/hybrid/platinum-huckleberry-cookies: Platinum
+/indica/platinum-kush: Platinum Kush
+/indica/platinum-og: Platinum OG
+/indica/platinum-purple-kush: Platinum Purple
+/hybrid/platinum-sour-diesel: Platinum Sour
+/hybrid/platinum-wreck: Platinum Wreck
+/hybrid/plum-dawg-millionaire: Plum Dawg
+/indica/plushberry: Plushberry
+/indica/pluto-kush: Pluto Kush
+/sativa/poison-haze: Poison Haze
+/indica/pokie: Pokie
+/sativa/poochie-love: Poochie Love
+/hybrid/pop-rox: Pop Rox
+/indica/popcorn-kush: Popcorn Kush
+/indica/pot-of-gold: Pot of Gold
+/sativa/powderhound: Powderhound
+/indica/power-kush: Power Kush
+/sativa/power-plant: Power Plant
+/indica/pre-98-bubba-kush: Pre-98 Bubba
+/hybrid/predator-pink: Predator Pink
+/indica/presidential-og: Presidential OG
+/indica/prevention: Prevention
+/indica/primus: Primus
+/sativa/princess: Princess
+/hybrid/princesss-tiara: Princesss Tiara
+/hybrid/prismatic-jack: Prismatic Jack
+/hybrid/professor-chaos: Professor Chaos
+/hybrid/project-blue-book: Project Blue
+/sativa/proper-pho-shatter-s: Proper PHO
+/indica/puna-buddaz: Puna Buddaz
+/hybrid/puna-budder: Puna Budder
+/indica/punky-lion: Punky Lion
+/sativa/punto-rojo-tierra-adentro: Punto Rojo
+/hybrid/punxsy-punch: Punxsy Punch
+/indica/pure-afghan: Pure Afghan
+/indica/pure-kush: Pure Kush
+/indica/pure-love: Pure Love
+/indica/pure-og: Pure OG
+/hybrid/pure-power-plant: Pure Power Plant
+/hybrid/purple-ak-47: Purple AK-47
+/indica/purple-afghani: Purple Afghani
+/hybrid/purple-alien-og: Purple Alien OG
+/hybrid/purple-animal-cookies: Purple Animal
+/hybrid/purple-arrow: Purple Arrow
+/hybrid/purple-aurora: Purple Aurora
+/indica/purple-berry: Purple Berry
+/indica/purple-bubba: Purple Bubba
+/indica/purple-bud: Purple Bud
+/indica/purple-buddha: Purple Buddha
+/indica/purple-bush: Purple Bush
+/indica/purple-candy: Purple Candy
+/sativa/purple-champagne: Purple Champagne
+/indica/purple-cheddar: Purple Cheddar
+/hybrid/purple-cheese: Purple Cheese
+/indica/purple-chemdawg: Purple Chemdawg
+/indica/purple-cotton-candy: Purple Cotton
+/sativa/purple-cow: Purple Cow
+/hybrid/purple-crack: Purple Crack
+/indica/purple-cream: Purple Cream
+/hybrid/purple-diesel: Purple Diesel
+/hybrid/purple-dog-shit: Purple Dog Shit
+/indica/purple-dragon: Purple Dragon
+/hybrid/purple-dream: Purple Dream
+/indica/purple-elephant: Purple Elephant
+/hybrid/purple-frost: Purple Frost
+/hybrid/purple-goat: Purple Goat
+/indica/purple-goo: Purple Goo
+/hybrid/purple-gorilla: Purple Gorilla
+/indica/purple-happy-rancher: Purple Happy
+/hybrid/purple-hashplant: Purple Hashplant
+/sativa/purple-haze: Purple Haze
+/hybrid/purple-headband: Purple Headband
+/indica/purple-hindu-kush: Purple Hindu
+/hybrid/purple-ice: Purple Ice
+/hybrid/purple-jack: Purple Jack
+/indica/purple-killer: Purple Killer
+/indica/purple-kush: Purple Kush
+/indica/purple-linda: Purple Linda
+/indica/purple-martian-kush: Purple Martian
+/hybrid/purple-maui: Purple Maui
+/indica/purple-monkey-balls: Purple Monkey
+/hybrid/purple-moss: Purple Moss
+/indica/purple-mr-nice: Purple Mr. Nice
+/indica/purple-nepal: Purple Nepal
+/indica/purple-og-kush: Purple OG Kush
+/hybrid/purple-pantera: Purple Pantera
+/indica/purple-panty-dropper: Purple Panty
+/hybrid/purple-paralysis: Purple Paralysis
+/indica/purple-passion: Purple Passion
+/indica/purple-people-eater: Purple People
+/indica/purple-pinecone: Purple Pinecone
+/sativa/purple-power: Purple Power
+/hybrid/purple-prevention: Purple
+/hybrid/purple-princess: Purple Princess
+/indica/purple-punch: Purple Punch
+/hybrid/purple-raine: Purple Raine
+/hybrid/purple-rhino: Purple Rhino
+/hybrid/purple-sage: Purple Sage
+/hybrid/purple-skunk: Purple Skunk
+/hybrid/purple-sour-diesel: Purple Sour
+/indica/purple-star: Purple Star
+/indica/purple-swish: Purple Swish
+/sativa/purple-tangie: Purple Tangie
+/hybrid/purple-tears: Purple Tears
+/sativa/purple-thai: Purple Thai
+/hybrid/purple-tide: Purple Tide
+/indica/purple-tonic: Purple Tonic
+/hybrid/purple-trainwreck: Purple
+/indica/purple-urkle: Purple Urkle
+/hybrid/purple-voodoo: Purple Voodoo
+/hybrid/purple-widow: Purple Widow
+/indica/purple-wreck: Purple Wreck
+/sativa/q3: Q3
+/hybrid/qleaner: Qleaner
+/hybrid/qrazy-train: Qrazy Train
+/sativa/quantum-kush: Quantum Kush
+/hybrid/quebec-gold: Quebec Gold
+/indica/queen-mother-goji: Queen Mother
+/hybrid/queens-panties: Queen's Panties
+/indica/querkle: Querkle
+/hybrid/queso: Queso
+/indica/quin-n-tonic: Quin-N-Tonic
+/indica/qush: Qush
+/hybrid/r-4: R-4
+/hybrid/race-fuel-og: Race Fuel OG
+/sativa/rafael: Rafael
+/hybrid/rainbow: Rainbow
+/indica/rainbow-jones: Rainbow Jones
+/hybrid/raindance: Raindance
+/hybrid/ramses: Ramses
+/indica/rare-dankness-1: Rare Dankness #1
+/indica/rare-darkness: Rare Darkness
+/hybrid/raskal-og: Raskal OG
+/sativa/raspberry-cough: Raspberry Cough
+/indica/raspberry-kush: Raspberry Kush
+/hybrid/raw-diesel: Raw Diesel
+/indica/ray-charles: Ray Charles
+/hybrid/rebel-berry-og: Rebel Berry OG
+/sativa/rebel-god-smoke: Rebel God Smoke
+/sativa/rebel-tangie-kandy: Rebel Tangie
+/indica/reclining-buddha: Reclining Buddha
+/indica/recon: Recon
+/hybrid/red-cherry-berry: Red Cherry Berry
+/sativa/red-congolese: Red Congolese
+/hybrid/red-diesel: Red Diesel
+/hybrid/red-dragon: Red Dragon
+/indica/red-dwarf: Red Dwarf
+/indica/red-eye-og: Red Eye OG
+/sativa/red-haze: Red Haze
+/sativa/red-headed-stranger: Red Headed
+/hybrid/red-poison: Red Poison
+/hybrid/red-rhino: Red Rhino
+/hybrid/red-velvet-pie: Red Velvet Pie
+/hybrid/red-widow: Red Widow
+/hybrid/redd-cross: Redd Cross
+/hybrid/redding-og: Redding OG
+/indica/redwood-kush: Redwood Kush
+/indica/remedy: Remedy
+/hybrid/remo-chemo: Remo Chemo
+/hybrid/rene: Rene
+/hybrid/rene-mist: Rene Mist
+/hybrid/revival: Revival
+/hybrid/richie-rich: Richie Rich
+/hybrid/riddler-og: Riddler OG
+/sativa/ridge-berry: Ridge Berry
+/indica/rigger-kush: Rigger Kush
+/hybrid/ringos-gift: Ringo's Gift
+/indica/rip-city-purps: Rip City Purps
+/hybrid/ripped-bubba: Ripped Bubba
+/hybrid/rise-n-shine: Rise n Shine
+/hybrid/river-song: River Song
+/hybrid/road-dawg: Road Dawg
+/hybrid/rob-ford-kush: Rob Ford Kush
+/sativa/robert-plant: Robert Plant
+/indica/rockbud: Rockbud
+/hybrid/rocket-fuel: Rocket Fuel
+/indica/rocklock: Rocklock
+/indica/rockstar: Rockstar
+/indica/rockstar-kush: Rockstar Kush
+/indica/rockstar-master-kush: Rockstar Master
+/hybrid/rocky-dennis: Rocky Dennis
+/indica/rocky-mountain-blueberry: Rocky Mountain
+/hybrid/rocky-mountain-high: Rocky Mountain
+/indica/rollex-og-kush: Rollex OG Kush
+/hybrid/rolls-choice: Rolls Choice
+/hybrid/romping-goddess: Romping Goddess
+/indica/romulan: Romulan
+/hybrid/romulan-grapefruit: Romulan
+/hybrid/romulan-haze: Romulan Haze
+/sativa/root-beer-kush: Root Beer Kush
+/indica/rose-bud: Rose Bud
+/hybrid/royal-chemdawg: Royal Chemdawg
+/hybrid/royal-dwarf: Royal Dwarf
+/sativa/royal-haze: Royal Haze
+/hybrid/royal-highness: Royal Highness
+/hybrid/royal-kush: Royal Kush
+/hybrid/royal-tree-sherbet: Royal Tree
+/hybrid/roz: Roz
+/hybrid/rubicon: Rubicon
+/hybrid/rudeboi-og: RudeBoi OG
+/hybrid/rug-burn-og: Rug Burn OG
+/indica/russian-assassin: Russian Assassin
+/sativa/russian-doll: Russian Doll
+/hybrid/russian-rocket-fuel: Russian Rocket
+/indica/russian-roulette: Russian Roulette
+/hybrid/sage: SAGE
+/hybrid/sage-walker: SAGE Walker
+/hybrid/sfv-dog: SFV Dog
+/hybrid/sfv-og: SFV OG
+/indica/sfv-og-kush: SFV OG Kush
+/sativa/sour-land: SPK
+/sativa/sage-n-sour: Sage N Sour
+/indica/salmon-river-og: Salmon River OG
+/sativa/santa-maria: Santa Maria
+/sativa/santa-sativa: Santa Sativa
+/hybrid/sapphire-scout: Sapphire Scout
+/hybrid/sapphire-star: Sapphire Star
+/hybrid/sasquatch-sap: Sasquatch Sap
+/indica/satellite-og: Satellite OG
+/hybrid/satori: Satori
+/hybrid/saturn-og: Saturn OG
+/hybrid/savage-citrus-sunshine: Savage Citrus
+/hybrid/savants-grail: Savant's Grail
+/sativa/schrom: Schrom
+/hybrid/scooby-snack: Scooby Snacks
+/hybrid/scotts-og: Scott's OG
+/hybrid/scouts-honor: Scout's Honor
+/hybrid/scroopy-noopers: Scroopy Noopers
+/indica/seattle-blue: Seattle Blue
+/sativa/seattle-cough: Seattle Cough
+/hybrid/seattlesoda: SeattleSoda
+/indica/secret-garden-og: Secret Garden OG
+/hybrid/secret-recipe: Secret Recipe
+/indica/sensi-skunk: Sensi Skunk
+/indica/sensi-star: Sensi Star
+/sativa/sequoia-strawberry: Sequoia
+/sativa/serious-6: Serious 6
+/hybrid/serious-happiness: Serious
+/indica/sexxpot: Sexxpot
+/sativa/shaman: Shaman
+/hybrid/shangri-la: Shangri-La
+/indica/shark-attack: Shark Attack
+/hybrid/shark-bite: Shark Bite
+/indica/shark-shock: Shark Shock
+/hybrid/sharks-breath: Sharksbreath
+/hybrid/sunset-sherbert: Sherbert
+/hybrid/shiatsu-kush: Shiatsu Kush
+/sativa/shining-silver-haze: Shining Silver
+/sativa/shipwreck: Shipwreck
+/indica/shishkaberry: Shishkaberry
+/hybrid/shiskaquine: Shiskaquine
+/indica/shiva-skunk: Shiva Skunk
+/hybrid/shoreline: Shoreline
+/hybrid/shurman: Shurman
+/hybrid/siddharthas-dream: Siddharthas
+/hybrid/sidetracked: Sidetracked
+/hybrid/sierra-mist: Sierra Mist
+/hybrid/silver-back: Silver Back
+/hybrid/silver-bubble: Silver Bubble
+/hybrid/silver-calyx: Silver Calyx
+/hybrid/silver-cindy: Silver Cindy
+/sativa/silver-haze: Silver Haze
+/sativa/silver-kush: Silver Kush
+/hybrid/silver-nina: Silver Nina
+/hybrid/silver-pearl: Silver Pearl
+/hybrid/silver-surfer: Silver Surfer
+/sativa/silver-train: Silver Train
+/indica/silverback-gorilla: Silverback
+/hybrid/silverfalls-kush: Silverfalls Kush
+/sativa/silverhawks-og: Silverhawks OG
+/indica/sin-city-kush: Sin City Kush
+/hybrid/sin-valley-og: Sin Valley OG
+/hybrid/sinmint-cookies: SinMint Cookies
+/sativa/sinai: Sinai
+/indica/sirius-black: Sirius Black
+/hybrid/sister-glue: Sister Glue
+/hybrid/six-shooter: Six Shooter
+/hybrid/sizzurp: Sizzurp
+/hybrid/skins-skunk: Skins Skunk
+/indica/skunk-47: Skunk 47
+/sativa/skunk-dawg: Skunk Dawg
+/hybrid/skunk-haze: Skunk Haze
+/hybrid/skunk-1: Skunk No. 1
+/indica/skunk-plus: Skunk+
+/hybrid/skunkberry: Skunkberry
+/hybrid/skunky-diesel: Skunky Diesel
+/hybrid/sky-lotus: Sky Lotus
+/sativa/sky-master: Sky Master
+/indica/skydog: Skydog
+/hybrid/skywalker-alien: Skywalker Alien
+/sativa/slazerbeam: Slazerbeam
+/sativa/sleeskunk: SleeSkunk
+/sativa/sleestack: SleeStack
+/hybrid/slice-of-heaven: Slice of Heaven
+/hybrid/slimer-og: Slimer OG
+/hybrid/smelliot: Smelliot
+/hybrid/smooth-operator: Smooth Operator
+/indica/snoop-dogg-og: Snoop Dogg OG
+/hybrid/snoop-s-dream: Snoop's Dream
+/hybrid/snow-bud: Snow Bud
+/hybrid/snow-diesel: Snow Diesel
+/hybrid/snow-goddess: Snow Goddess
+/indica/snow-leopard: Snow Leopard
+/hybrid/snow-lotus: Snow Lotus
+/indica/snow-monster: Snow Monster
+/indica/snow-mountain: Snow Mountain
+/indica/snow-ryder: Snow Ryder
+/hybrid/snow-white: Snow White
+/hybrid/snowland: SnowLAnd
+/hybrid/snowcap: Snowcap
+/sativa/sojay-haze: Sojay Haze
+/indica/somango: Somango
+/sativa/sonic-screwdriver: Sonic
+/sativa/sonoma-coma: Sonoma Coma
+/hybrid/sorcerers-apprentice: Sorcerers
+/hybrid/soul-assassin-og: Soul Assassin OG
+/hybrid/soul-shine: Soul Shine
+/indica/soulshine-aloha: Soulshine Aloha
+/hybrid/sour-alien: Sour Alien
+/sativa/sour-amnesia: Sour Amnesia
+/indica/sour-ape: Sour Ape
+/hybrid/sour-apple: Sour Apple
+/hybrid/sour-banana-sherbet: Sour Banana
+/hybrid/sour-boggle: Sour Boggle
+/sativa/sour-breath: Sour Breath
+/indica/sour-bubba: Sour Bubba
+/indica/sour-bubble: Sour Bubble
+/hybrid/sour-candy: Sour Candy
+/hybrid/sour-chees: Sour Cheese
+/hybrid/sour-cherry-sherbert: Sour Cherry
+/sativa/sour-chocolate: Sour Chocolate
+/hybrid/sour-chunk: Sour Chunk
+/hybrid/sour-cookies: Sour Cookies
+/hybrid/sour-cream: Sour Cream
+/sativa/sour-diesel: Sour Diesel
+/hybrid/sour-dream: Sour Dream
+/hybrid/sour-dubble: Sour Dubble
+/sativa/sour-flower: Sour Flower
+/hybrid/sour-grape: Sour Grape
+/sativa/sour-haze: Sour Haze
+/hybrid/sour-headband: Sour Headband
+/sativa/sour-jack: Sour Jack
+/hybrid/sour-jilly: Sour Jilly
+/sativa/sour-joker: Sour Joker
+/hybrid/sour-kush: Sour Kush
+/hybrid/sour-lsd: Sour LSD
+/hybrid/sour-lemon-og: Sour Lemon OG
+/hybrid/sour-lifesavers: Sour Lifesavers
+/sativa/sour-maui: Sour Maui
+/hybrid/sour-og: Sour OG
+/hybrid/sour-patch-kiss: Sour Patch Kiss
+/sativa/sour-pebbles: Sour Pebbles
+/sativa/sour-poison: Sour Poison
+/hybrid/sour-power: Sour Power
+/hybrid/sour-power-og: Sour Power OG
+/indica/sour-spyder: Sour Spyder
+/sativa/sour-star-head: Sour Star Head
+/hybrid/sour-strawberry: Sour Strawberry
+/hybrid/sour-strawberry-diesel: Sour Strawberry
+/hybrid/sour-sunset: Sour Sunset
+/sativa/sour-tangie: Sour Tangie
+/hybrid/sour-tsunami: Sour Tsunami
+/hybrid/sour-urkle: Sour Urkle
+/sativa/sour-willie: Sour Willie
+/sativa/sourlope: Sourlope
+/sativa/south-american: South American
+/indica/south-asian: South Asian
+/sativa/south-asian-sativa: South Asian
+/indica/south-central-la: South Central LA
+/indica/south-indian-indica: South Indian
+/sativa/south-indian: South Indian
+/sativa/southern-lights: Southern Lights
+/hybrid/space-bomb: Space Bomb
+/hybrid/space-candy: Space Candy
+/hybrid/space-cream: Space Cream
+/indica/space-dawg: Space Dawg
+/sativa/space-jill: Space Jill
+/indica/space-monster: Space Monster
+/sativa/space-needle: Space Needle
+/hybrid/space-poison: Space Poison
+/hybrid/space-queen: Space Queen
+/hybrid/special-k: Special K
+/indica/special-kush-1: Special Kush #1
+/hybrid/spirit-of-76: Spirit of '76
+/sativa/spliffs-strawberry: Spliffs
+/indica/spoetnik-1: Spoetnik #1
+/sativa/sputnik: Sputnik
+/hybrid/spyder-mon: Spyder Mon
+/hybrid/star-47: Star 47
+/indica/star-berry: Star Berry
+/indica/star-killer: Star Killer
+/indica/star-master-kush: Star Master Kush
+/hybrid/star-pupil: Star Pupil
+/hybrid/star-tonic: Star Tonic
+/indica/starbud: StarBud
+/hybrid/stardawg: Stardawg
+/indica/stardawg-91: Stardawg 91
+/sativa/stardawg-guava: Stardawg Guava
+/hybrid/starfighter: Starfighter
+/hybrid/starman: Starman
+/hybrid/starry-night: Starry Night
+/sativa/stella-blue: Stella Blue
+/indica/stephen-hawking-kush: Stephen Hawking
+/hybrid/stevie-wonder: Stevie Wonder
+/hybrid/stinky-pete: Stinky Pete
+/sativa/straight-as-haze: Straight A's
+/sativa/strawberry: Strawberry
+/hybrid/strawberry-alien-kush: Strawberry Alien
+/sativa/strawberry-amnesia: Strawberry
+/hybrid/strawberry-banana: Strawberry
+/sativa/strawberry-blonde: Strawberry
+/hybrid/strawberry-blondie: Strawberry
+/sativa/strawberry-blue: Strawberry Blue
+/indica/strawberry-cheesecake: Strawberry
+/sativa/strawberry-cough: Strawberry Cough
+/hybrid/strawberry-diesel: Strawberry
+/hybrid/strawberry-dream: Strawberry Dream
+/sativa/strawberry-durban-diesel: Strawberry
+/indica/strawberry-fields: Strawberry
+/indica/strawberry-frost: Strawberry Frost
+/sativa/strawberry-ice: Strawberry Ice
+/hybrid/strawberry-kush: Strawberry Kush
+/sativa/strawberry-lemonade: Strawberry
+/sativa/strawberry-mango-haze: Strawberry Mango
+/hybrid/strawberry-milkshake: Strawberry
+/hybrid/strawberry-og: Strawberry OG
+/sativa/strawberry-satori: Strawberry
+/hybrid/strawberry-snow-cone: Strawberry Snow
+/sativa/sublime: Sublime
+/indica/sugar-black-rose: Sugar Black Rose
+/hybrid/sugar-calyx: Sugar Calyx
+/hybrid/sugar-cookie: Sugar Cookie
+/indica/sugar-kush: Sugar Kush
+/indica/sugar-mama: Sugar Mama
+/hybrid/sugar-pine: Sugar Pine
+/sativa/sugar-plum: Sugar Plum
+/hybrid/sugar-punch: Sugar Punch
+/hybrid/sugar-shack: Sugar Shack
+/hybrid/suicide-girl: Suicide Girl
+/hybrid/summer-breeze: Summer Breeze
+/sativa/summertime-squeeze: Summertime
+/sativa/sumo-grande: Sumo Grande
+/indica/sumo-og-kush: Sumo's OG Kush
+/sativa/sun-ra: Sun Ra
+/sativa/sunburn: Sunburn
+/hybrid/sunlight-skunk: Sunlight Skunk
+/hybrid/sunny-d: Sunny D
+/indica/sunset: Sunset
+/hybrid/sunset-haze: Sunset Haze
+/sativa/sunshine: Sunshine
+/hybrid/sunshine-4: Sunshine #4
+/indica/sunshine-daydream: Sunshine
+/sativa/supa-don: Supa Don
+/indica/super-chronic: Super  Chronic
+/hybrid/super-blue-dream: Super Blue Dream
+/indica/super-bud: Super Bud
+/sativa/super-cat-piss: Super Cat Piss
+/indica/super-cheese: Super Cheese
+/sativa/super-g: Super G
+/hybrid/super-glu: Super Glu
+/sativa/super-green-crack: Super Green
+/sativa/super-jack: Super Jack
+/indica/super-kush: Super Kush
+/sativa/super-lemon-haze: Super Lemon Haze
+/hybrid/super-lemon-og: Super Lemon OG
+/hybrid/super-silver-bullet: Super Silver
+/sativa/super-silver-haze: Super Silver
+/hybrid/super-silver-lights: Super Silver
+/indica/super-skunk: Super Skunk
+/sativa/super-snow-dog: Super Snow Dog
+/sativa/super-sour-diesel: Super Sour
+/hybrid/super-sour-lemon: Super Sour Lemon
+/hybrid/super-sour-og: Super Sour OG
+/hybrid/super-sour-skunk: Super Sour Skunk
+/hybrid/super-sour-widow: Super Sour Widow
+/hybrid/super-sweet: Super Sweet
+/indica/supergirl: Supergirl
+/hybrid/superglue: Superglue
+/indica/superman-og: Superman OG
+/hybrid/supermax-og: Supermax OG
+/sativa/supernatural: Supernatural
+/hybrid/supernova: Supernova
+/hybrid/superstar: Superstar
+/hybrid/suzy-q: Suzy Q
+/sativa/swazi-gold: Swazi Gold
+/hybrid/sweet--sour-cindy: Sweet & Sour
+/sativa/sweet-amnesia-haze: Sweet Amnesia
+/indica/sweet-baby-jane: Sweet Baby Jane
+/hybrid/sweet-berry: Sweet Berry
+/indica/sweet-black-angel: Sweet Black
+/sativa/sweet-cheese: Sweet Cheese
+/hybrid/sweet-cindy: Sweet Cindy
+/indica/sweet-deep-grapefruit: Sweet Deep
+/sativa/sweet-diesel: Sweet Diesel
+/hybrid/sweet-dream: Sweet Dream
+/hybrid/sweet-dreams: Sweet Dreams
+/indica/sweet-dreams-b44e9f5d217a4d5eba9365ffa0047a94: Sweet Dreams
+/hybrid/sweet-harlem-diesel: Sweet Harlem
+/hybrid/sweet-hawaiian-tangie-banana: Sweet Hawaiian
+/sativa/sweet-jane: Sweet Jane
+/sativa/sweet-jesus: Sweet Jesus
+/hybrid/sweet-kush: Sweet Kush
+/indica/sweet-lafayette: Sweet Lafayette
+/hybrid/sweet-nina: Sweet Nina
+/hybrid/sweet-pebbles: Sweet Pebbles
+/hybrid/sweet-pure-cbd: Sweet Pure CBD
+/hybrid/sweet-skunk: Sweet Skunk
+/indica/sweet-tooth: Sweet Tooth
+/indica/sweet-and-sour-widow: Sweet and Sour
+/hybrid/swiss-bliss: Swiss Bliss
+/sativa/swiss-gold: Swiss Gold
+/indica/swiss: Swiss Indica
+/sativa/swiss-sativa: Swiss Sativa
+/sativa/swiss-tsunami: Swiss Tsunami
+/hybrid/thc-bomb: THC Bomb
+/hybrid/tjs-cbd: TJ's CBD
+/hybrid/tachllta-till: Tachllta Till
+/hybrid/tahoe-alien: Tahoe Alien
+/hybrid/tahoe-frostbite: Tahoe Frostbite
+/hybrid/tahoe-hydro-champagne: Tahoe Hydro
+/hybrid/tahoe-hydro-og: Tahoe Hydro OG
+/hybrid/tahoe-og: Tahoe OG Kush
+/indica/tahoe-purps: Tahoe Purps
+/indica/taliban-poison: Taliban Poison
+/hybrid/tangelo: Tangelo
+/hybrid/tangelo-kush: Tangelo Kush
+/hybrid/tangenesia: Tangenesia
+/hybrid/tangerine: Tangerine
+/hybrid/tangerine-dream: Tangerine Dream
+/hybrid/tangerine-haze: Tangerine Haze
+/indica/tangerine-kush: Tangerine Kush
+/sativa/tangerine-man: Tangerine Man
+/hybrid/tangerine-power: Tangerine Power
+/sativa/tangerine-sunrise: Tangerine
+/sativa/tangerine-trainwreck-haze: Tangerine
+/sativa/tangie: Tangie
+/hybrid/tangie-biscotti: Tangie Biscotti
+/sativa/tangie-cookies: Tangie Cookies
+/hybrid/tangie-dream: Tangie Dream
+/sativa/tangie-ghost-train: Tangie Ghost
+/hybrid/tangie-sunrise: Tangie Sunrise
+/hybrid/tangier-chilly: Tangier Chilly
+/sativa/tangilope: Tangilope
+/hybrid/tango-kush: Tango Kush
+/sativa/tardis: Tardis
+/hybrid/tarmonster: Tarmonster
+/hybrid/tembo-kush: Tembo Kush
+/indica/terminator-og: Terminator OG
+/hybrid/tesla: Tesla
+/sativa/tesla-tower: Tesla Tower
+/sativa/thai: Thai
+/hybrid/thai-fantasy: Thai Fantasy
+/hybrid/thai-girl: Thai Girl
+/sativa/thai-haze: Thai Haze
+/hybrid/thai-lights: Thai Lights
+/sativa/thai-tanic: Thai-Tanic
+/hybrid/thaidal-wave: Thaidal Wave
+/hybrid/the-big-dirty: The Big Dirty
+/indica/the-black: The Black
+/hybrid/the-blintz: The Blintz
+/sativa/the-blood: The Blood
+/hybrid/the-boss: The Boss
+/hybrid/the-brotherhood: The Brotherhood
+/sativa/the-cough: The Cough
+/indica/the-doctor: The Doctor
+/hybrid/the-flav: The Flav
+/sativa/the-fork: The Fork
+/hybrid/the-gift: The Gift
+/hybrid/the-grunk: The Grunk
+/indica/hog: The Hog
+/hybrid/the-lime: The Lime
+/indica/the-loops: The Loops
+/indica/the-ox: The OX
+/hybrid/the-one: The One
+/indica/the-ooze: The Ooze
+/hybrid/the-original-lemonnade: The Original
+/hybrid/the-real-mccoy: The Real McCoy
+/hybrid/the-sauce: The Sauce
+/hybrid/the-sheriff: The Sheriff
+/indica/the-sister: The Sister
+/hybrid/the-third-dimension: The Third
+/hybrid/the-truth: The Truth
+/hybrid/the-vision: The Vision
+/hybrid/the-void: The Void
+/hybrid/the-white: The White
+/hybrid/the-white-angel: The White Angel
+/hybrid/the-wife: The Wife
+/hybrid/the-wills: The Wills
+/hybrid/thelonious-skunk: Thelonious Skunk
+/hybrid/thin-mint: Thin Mint GSC
+/hybrid/think-different: Think Different
+/sativa/thors-hammer: Thor's Hammer
+/indica/throwback-kush: Throwback Kush
+/sativa/thunderbird-rose: Thunderbird Rose
+/sativa/thunderstruck: Thunderstruck
+/hybrid/tickle-kush: Tickle Kush
+/hybrid/tiger-woods: Tiger Woods
+/indica/tigers-milk: Tiger's Milk
+/indica/tigermelon: Tigermelon
+/hybrid/tillamook-strawberry: Tillamook
+/sativa/timewreck: Timewreck
+/indica/tina: Tina
+/hybrid/tina-danza: Tina Danza
+/sativa/titans-haze: Titan's Haze
+/hybrid/tokyo-og: Tokyo OG
+/hybrid/tommys-home-grown: Tommy's Home
+/indica/tonics-web: Tonics Web
+/indica/tora-bora: Tora Bora
+/hybrid/toxic: Toxic
+/hybrid/toxic-punch: Toxic Punch
+/indica/training-day: Training Day
+/hybrid/trainwreck: Trainwreck
+/indica/tranquil-elephantizer-remix: Tranquil
+/hybrid/transformer: Transformer
+/indica/trap-star: Trap Star
+/hybrid/trash: Trash
+/hybrid/travel-joint: Travel Joint
+/hybrid/treasure-island: Treasure Island
+/hybrid/tree-of-life: Tree of Life
+/hybrid/tres-dawg: Tres Dawg
+/indica/triangle-kush: Triangle Kush
+/hybrid/trident: Trident
+/hybrid/trifecta: Trifecta
+/sativa/trinity: Trinity
+/indica/triple-cheese: Triple Cheese
+/sativa/triple-diesel: Triple Diesel
+/sativa/trix: Trix
+/hybrid/tropic-thunder: Tropic Thunder
+/hybrid/tropical-tang: Tropical Tang
+/hybrid/tropicali: Tropicali
+/sativa/tropicana-cookies: Tropicana
+/hybrid/true-face: True Face
+/indica/true-og: True OG
+/indica/true-x: True X
+/indica/trueberry: Trueberry
+/indica/truffle-butter: Truffle Butter
+/hybrid/truffula-tree: Truffula Tree
+/hybrid/truth-serum: Truth Serum
+/indica/tuna-kush: Tuna Kush
+/hybrid/tuna-og: Tuna OG
+/hybrid/turbo-mind-warp: Turbo Mind Warp
+/sativa/tutankhamon: Tutankhamon
+/hybrid/tutti-frutti: Tutti Frutti
+/sativa/twista: Twista
+/sativa/twisted-citrus: Twisted Citrus
+/hybrid/two-beards: Two Beards
+/indica/tyson: Tyson
+/indica/u2-kush: U2 Kush
+/hybrid/uk-cheese: UK Cheese
+/indica/uw: UW
+/sativa/ultimate-trainwreck: Ultimate
+/indica/ultra-banana: Ultra Banana
+/hybrid/ultra-sonja: Ultra Sonja
+/sativa/ultra-sour: Ultra Sour
+/indica/ultraviolet-og: UltraViolet OG
+/hybrid/urkle-train-haze: Urkle Train Haze
+/hybrid/vcdc: VCDC
+/hybrid/az-super-sour-og: VOTS AZ Super
+/indica/vader-og: Vader OG
+/hybrid/valentine-x: Valentine X
+/hybrid/valley-ghash: Valley Ghash
+/hybrid/valley-girl: Valley Girl
+/indica/vanilla-kush: Vanilla Kush
+/hybrid/vanilluna: Vanilluna
+/sativa/velvet-bud: Velvet Bud
+/hybrid/velvet-purps: Velvet Purps
+/sativa/venice-og: Venice OG
+/hybrid/venom-og: Venom OG
+/hybrid/venus-og: Venus OG
+/hybrid/verde-electric: Verde Electric
+/hybrid/versace: Versace
+/sativa/very-berry-haze: Very Berry Haze
+/hybrid/vietnamese-bubba: Vietnamese Bubba
+/indica/violator-kush: Violator Kush
+/hybrid/violet-delight: Violet Delight
+/hybrid/violeta: Violeta
+/sativa/viper: Viper
+/sativa/voodoo: Voodoo
+/sativa/vortex: Vortex
+/indica/wmd: WMD
+/indica/wsu: WSU
+/hybrid/wtf: WTF
+/sativa/wabanaki: Wabanaki
+/sativa/waipi-o-hapa: Waipi'o Hapa
+/hybrid/wakanda-og: Wakanda OG
+/hybrid/waldo: Waldo
+/hybrid/walker-kush: Walker Kush
+/hybrid/wally-og: Wally OG
+/hybrid/walrus-kush: Walrus Kush
+/hybrid/walter-white: Walter White
+/hybrid/wappa: Wappa
+/hybrid/warlock: Warlock
+/indica/washing-machine: Washing Machine
+/indica/watermelon: Watermelon
+/sativa/webster: Webster
+/hybrid/wedding-cake: Wedding Cake
+/hybrid/wedding-crasher: Wedding Crasher
+/indica/weebes-world: Weebes World
+/hybrid/wellness-og: Wellness OG
+/indica/wembley: Wembley
+/indica/west-coast-dawg: West Coast Dawg
+/indica/west-og: West OG
+/sativa/wet-dream: Wet Dream
+/hybrid/wheres-my-bike: Where's My Bike
+/indica/whitaker-blues: Whitaker Blues
+/hybrid/white-99: White 99
+/indica/white-bastard: White Bastard
+/indica/white-berry: White Berry
+/indica/white-bubblegum: White Bubblegum
+/sativa/white-buffalo: White Buffalo
+/indica/white-caramel-cookies: White Caramel
+/hybrid/white-castle: White Castle
+/hybrid/white-cheese: White Cheese
+/hybrid/white-choco: White Choco
+/hybrid/white-chocolate: White Chocolate
+/hybrid/white-cookies: White Cookies
+/hybrid/white-dawg: White Dawg
+/hybrid/white-dawg-fire-og: White Dawg Fire
+/hybrid/white-diesel: White Diesel
+/indica/white-domina: White Domina
+/indica/white-dragon: White Dragon
+/hybrid/white-dream: White Dream
+/sativa/white-durban: White Durban
+/hybrid/white-elephant: White Elephant
+/indica/white-empress: White Empress
+/indica/white-fire-43: White Fire 43
+/hybrid/white-fire-alien-og: White Fire Alien
+/hybrid/white-fire-og: White Fire OG
+/hybrid/white-girl: White Girl
+/hybrid/white-gold: White Gold
+/hybrid/white-gorilla: White Gorilla
+/sativa/white-haze: White Haze
+/hybrid/white-ice: White Ice
+/hybrid/white-knight: White Knight
+/indica/white-kryptonite: White Kryptonite
+/indica/white-kush: White Kush
+/sativa/white-lsd: White LSD
+/hybrid/white-lavender: White Lavender
+/hybrid/white-lightning: White Lightning
+/hybrid/white-lotus: White Lotus
+/sativa/white-nightmare: White Nightmare
+/indica/white-og: White OG
+/hybrid/white-queen: White Queen
+/indica/white-rhino: White Rhino
+/hybrid/white-romulan: White Romulan
+/hybrid/white-russian: White Russian
+/hybrid/white-ryder: White Ryder
+/hybrid/white-sangria: White Sangria
+/hybrid/white-siberian: White Siberian
+/hybrid/white-skunk: White Skunk
+/hybrid/white-slipper: White Slipper
+/hybrid/white-smurf: White Smurf
+/hybrid/white-strawberry: White Strawberry
+/indica/white-tahoe-cookies: White Tahoe
+/indica/white-tygh-dream: White Tygh Dream
+/hybrid/white-urkle: White Urkle
+/hybrid/white-walker-kush: White Walker
+/hybrid/white-walrus: White Walrus
+/hybrid/white-widow: White Widow
+/hybrid/white-zombie: White Zombie
+/hybrid/whiteout: Whiteout
+/indica/whitewalker-og: Whitewalker OG
+/sativa/wild-thailand: Wild Thailand
+/hybrid/willie-berrie: Willie Berrie
+/hybrid/willie-cheesie: Willie Cheesie
+/sativa/willie-nelson: Willie Nelson
+/hybrid/willies-ghost: Willies Ghost
+/sativa/willy-wonka: Willy Wonka
+/indica/willys-wonder: Willy's Wonder
+/hybrid/wolfberry: Wolfberry
+/hybrid/wonder-haze: Wonder Haze
+/indica/wonder-kid: Wonder Kid
+/hybrid/wonder-woman: Wonder Woman
+/indica/wonderwoman-og: Wonder Woman OG
+/hybrid/wonka-s-bubbilicious: Wonka's
+/indica/woody-kush: Woody Kush
+/hybrid/wookie: Wookie
+/hybrid/wookies: Wookies
+/hybrid/wreckage: Wreckage
+/hybrid/x-file: X-File
+/hybrid/x-files: X-Files
+/indica/x-wing: X-Wing
+/hybrid/x-tra-chz: X-tra Chz
+/hybrid/xj-13: XJ-13
+/indica/xxx-420: XXX 420
+/indica/xxx-og: XXX OG
+/sativa/xanadu: Xanadu
+/sativa/y-griega: Y Griega
+/indica/yeti-og: Yeti OG
+/indica/yoda-og: Yoda OG
+/indica/yodas-brain: Yoda's Brain
+/hybrid/yogi-diesel: Yogi Diesel
+/indica/yumboldt: Yumboldt
+/hybrid/yummy: Yummy
+/sativa/zamaldelica: Zamaldelica
+/hybrid/zardde-gold: Zardde Gold
+/hybrid/zelda: Zelda
+/sativa/zellys-gift: Zellys Gift
+/hybrid/zen: Zen
+/sativa/zeta-sage: Zeta Sage
+/hybrid/zeus-og: Zeus OG
+/indica/zkittlez: Zkittlez
+/indica/zombie-kush: Zombie Kush
+/indica/zombie-og: Zombie OG
+/indica/zoom-pie: Zoom Pie
+/hybrid/hai-fantasy: hai Fantasy
+/hybrid/alenuihaha: Alenuihh
