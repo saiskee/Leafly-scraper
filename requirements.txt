@@ -1,0 +1,5 @@
+pip install psutil
+pip install requests
+pip install multiprocessing
+pip install bs4
+pip install datetime
