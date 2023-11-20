@@ -1,18 +1,17 @@
 # Leafly Multi-threading Review Scraper
 
-A python web scraper using the ```requests``` library to scrape reviews from the popular cannabis rating website, Leafly.com. Also takes advantage of multi-threading through the ```multiprocessing``` library to speed up scraping, utilizing more CPU to scrape up to 70 sites at once.
+A python web scraper using the ```requests``` library to scrape reviews from the popular cannabis rating website, Leafly.com. Also takes advantage of multi-threading through the ```multiprocessing``` library to speed up scraping, which comes with python3 by default, utilizing more CPU to scrape up to 70 sites at once.
 
 
 
 ### Prerequisites
 
 The following libraries are needed:
-psutil (if logging cpu usage), requests, multiprocessing, BeautifulSoup, datetime
+psutil (if logging cpu usage), requests, BeautifulSoup, datetime
 
 ```
 pip install psutil
 pip install requests
-pip install multiprocessing
 pip install bs4
 pip install datetime
 ```
